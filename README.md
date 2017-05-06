@@ -2,6 +2,6 @@
 
 The repository is a database of English words and expressions.
 
-## Content
+## Contents
 
 * [Irregular verbs](verbs)
