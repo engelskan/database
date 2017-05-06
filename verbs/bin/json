@@ -33,7 +33,7 @@ class Record
 end
 
 def typography(text)
-  text
+  text.split("\n")[0]
 end
 
 raise 'an HTML file is required' if ARGV.length < 1

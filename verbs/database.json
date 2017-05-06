@@ -1,26 +1,25 @@
 [
   {
-    "forms": "ache/ake – ached/oke – ached/aken",
-    "notes": ""
+    "forms": "ache/ake – ached/oke – ached/aken"
   },
   {
     "forms": "be (am, is, are) – was, were – been",
     "notes": "Suppletive. See Indo-European copula."
   },
   {
-    "forms": "bear – bore/*bare – borne/born\n\nforbear – forbore/*forbare – forborne/forborn\n*misbear – *misbore/*misbare – *misborne/misborn\noverbear – overbore/*overbare – overborne/overborn\nunderbear – underbore/*underbare – underborne/underborn\n\n",
+    "forms": "bear – bore/*bare – borne/born",
     "notes": "Strong, class 4. The spelling born is used in passive or adjectival contexts relating to birth."
   },
   {
-    "forms": "beat – beat – beaten/beat\n\nbrowbeat – browbeat – browbeaten/browbeat\noverbeat – overbeat – overbeaten/overbeat\n\n",
+    "forms": "beat – beat – beaten/beat",
     "notes": "Strong, class 7"
   },
   {
-    "forms": "become – became – become\n\nmisbecome – misbecame – misbecome\n\n",
+    "forms": "become – became – become",
     "notes": "Strong, class 4"
   },
   {
-    "forms": "beget – begot/*begat – begotten/begot\n\nmisbeget – misbegot/*misbegat – misbegotten/misbegot\n\n",
+    "forms": "beget – begot/*begat – begotten/begot",
     "notes": "Strong, class 5"
   },
   {
@@ -28,7 +27,7 @@
     "notes": "Strong, class 3"
   },
   {
-    "forms": "bend – bent/*bended – bent/*bended\n\noverbend – overbent/*overbended – overbent/*overbended\nunbend – unbent/*unbended – unbent/*unbended\n\n",
+    "forms": "bend – bent/*bended – bent/*bended",
     "notes": "Weak with coalescence of dentals"
   },
   {
@@ -36,7 +35,7 @@
     "notes": "Weak with Rückumlaut and Germanic spirant law (now regularized)"
   },
   {
-    "forms": "bet – bet/betted – bet/betted\n\nunderbet – underbet/underbetted – underbet/underbetted\n\n",
+    "forms": "bet – bet/betted – bet/betted",
     "notes": "Weak with coalescence of dentals"
   },
   {
@@ -44,7 +43,7 @@
     "notes": "Defective; formed from be with predicate adjective, used as infinitive, imperative and subjunctive only. Inflected forms (bewares, bewared, bewaring) are considered obsolete."
   },
   {
-    "forms": "bid [in auctions etc.] – bid – bid\n\noutbid – outbid – outbid\noverbid – overbid – overbid\nrebid – rebid – rebid\nunderbid – underbid – underbid\n\n",
+    "forms": "bid [in auctions etc.] – bid – bid",
     "notes": "Weak with coalescence of dentals"
   },
   {
@@ -52,15 +51,15 @@
     "notes": "Strong, class 5"
   },
   {
-    "forms": "bide – bided/bode – bided/bidden\n\nabide – abided/*abode – abided/*abidden\n\n",
+    "forms": "bide – bided/bode – bided/bidden",
     "notes": "Strong, class 1"
   },
   {
-    "forms": "bind – bound – bound\n\nunbind – unbound – unbound\nunderbind – underbound – underbound\n\n",
+    "forms": "bind – bound – bound",
     "notes": "Strong, class 3"
   },
   {
-    "forms": "bite – bit – bitten\n\nfrostbite – frostbit – frostbitten\n\n",
+    "forms": "bite – bit – bitten",
     "notes": "Strong, class 1"
   },
   {
@@ -72,15 +71,15 @@
     "notes": "Weak, regular with alternative (archaic) spelling"
   },
   {
-    "forms": "blow – blew – blown\n\noverblow – overblew – overblown\n\n",
+    "forms": "blow – blew – blown",
     "notes": "Strong, class 7"
   },
   {
-    "forms": "break – broke – broken\n\noutbreak – outbroke – outbroken\nrebreak – rebroke – rebroken\n\n",
+    "forms": "break – broke – broken",
     "notes": "Strong, class 4"
   },
   {
-    "forms": "breed – bred – bred\n\ninbreed – inbred – inbred\ninterbreed – interbred – interbred\noverbreed – overbred – overbred\n\n",
+    "forms": "breed – bred – bred",
     "notes": "Weak with vowel shortening and coalescence of dentals"
   },
   {
@@ -88,11 +87,11 @@
     "notes": "Weak with Rückumlaut and Germanic spirant law"
   },
   {
-    "forms": "build – built – built\n\noverbuild – overbuilt – overbuilt\nrebuild – rebuilt – rebuilt\nunderbuild – underbuilt – underbuilt\n\n",
+    "forms": "build – built – built",
     "notes": "Weak with coalescence of dentals and devoiced ending"
   },
   {
-    "forms": "burn – burned/burnt – burned/burnt\n\nsunburn – sunburned/sunburnt – sunburned/sunburnt\n\n",
+    "forms": "burn – burned/burnt – burned/burnt",
     "notes": "Weak with devoiced ending (or regular)"
   },
   {
@@ -104,7 +103,7 @@
     "notes": "Strong, class 3 (or regular)"
   },
   {
-    "forms": "buy – bought – bought/*boughten\n\n*abuy – *abought – *abought\noverbuy – overbought – overbought\nunderbuy – underbought – underbought\n\n",
+    "forms": "buy – bought – bought/*boughten",
     "notes": "Weak with Rückumlaut and Germanic spirant law"
   },
   {
@@ -112,7 +111,7 @@
     "notes": "Preterite-present, defective. See English modal verbs"
   },
   {
-    "forms": "cast – cast – cast\n\nbroadcast – broadcast – broadcast\ndowncast – downcast – downcast\nforecast – forecast – forecast\nmiscast – miscast – miscast\novercast – overcast – overcast\npodcast – podcast – podcast\nprecast – precast – precast\nrecast – recast – recast\nsimulcast – simulcast – simulcast\ntelecast – telecast – telecast\ntypecast – typecast – typecast\nundercast – undercast – undercast\nupcast – upcast – upcast\nwebcast – webcast – webcast\n\n",
+    "forms": "cast – cast – cast",
     "notes": "Weak with coalescence of dentals. Many of the prefixed forms can also take -ed."
   },
   {
@@ -124,7 +123,7 @@
     "notes": "Strong, class 1"
   },
   {
-    "forms": "choose – chose – chosen\n\nmischoose – mischose – mischosen\n\n",
+    "forms": "choose – chose – chosen",
     "notes": "Strong, class 2"
   },
   {
@@ -132,8 +131,7 @@
     "notes": "Developed from clad, the past form of clothe (see below)."
   },
   {
-    "forms": "clap – clapped/*clapt – clapped/*clapt",
-    "notes": ""
+    "forms": "clap – clapped/*clapt – clapped/*clapt"
   },
   {
     "forms": "cleave [meaning to split] – cleft/clove/cleaved/*clave – cleft/cloven/cleaved",
@@ -148,11 +146,11 @@
     "notes": "Strong, class 3"
   },
   {
-    "forms": "clothe – clad/clothed – clad/clothed\n\noverclothe – overclad/overclothed – overclad/overclothed\nunclothe – unclad/unclothed – unclad/unclothed\nunderclothe – underclad/underclothed – underclad/underclothed\n\n",
+    "forms": "clothe – clad/clothed – clad/clothed",
     "notes": "Weak; the regular clothed is from OE claþian, while clad (weak with coalescence of dentals) is from OE clæþan (both OE verbs having similar meaning).[1]"
   },
   {
-    "forms": "come – came – come/comen\n\novercome – overcame – overcome/overcomen\nsee also under become\n\n",
+    "forms": "come – came – come/comen",
     "notes": "Strong, class 4"
   },
   {
@@ -168,7 +166,7 @@
     "notes": "Strong, class 7. Now usually regular, but crew can still be used of a cock's crowing."
   },
   {
-    "forms": "cut – cut – cut\n\nclearcut – clearcut – clearcut\ncrosscut – crosscut – crosscut\n*forcut – *forcut – *forcut\nintercut – intercut – intercut\nrecut – recut – recut\nundercut – undercut – undercut\n\n",
+    "forms": "cut – cut – cut",
     "notes": "Weak with coalescence of dentals"
   },
   {
@@ -176,11 +174,11 @@
     "notes": "Preterite-present, now regular except in the use of dare in place of dares in some contexts. See English modal verbs"
   },
   {
-    "forms": "deal – dealt – dealt\n\nmisdeal – misdealt – misdealt\nredeal – redealt – redealt\n\n",
+    "forms": "deal – dealt – dealt",
     "notes": "Weak with vowel shortening and devoiced ending"
   },
   {
-    "forms": "dig – dug/*digged – dug/*digged\n\nunderdig – underdug – underdug\n\n",
+    "forms": "dig – dug/*digged – dug/*digged",
     "notes": "Originally weak; past form dug developed by analogy with stick–stuck[2]"
   },
   {
@@ -188,19 +186,18 @@
     "notes": "Weak, the alternative dove (found mainly in American usage) arising by analogy with strong verbs"
   },
   {
-    "forms": "do (does /dʌz/) – did – done\n\n*fordo – *fordid – *fordone\nmisdo – misdid – misdone\noutdo – outdid – outdone\noverdo – overdid – overdone\nredo redid – redone\nundo – undid – undone\nunderdo – underdid – underdone\n\n",
+    "forms": "do (does /dʌz/) – did – done",
     "notes": "Irregular since Proto-Germanic: past tense formed by reduplication. Past participle from Old English gedon"
   },
   {
-    "forms": "dow – dowed/dought – dowed/dought",
-    "notes": ""
+    "forms": "dow – dowed/dought – dowed/dought"
   },
   {
     "forms": "drag – dragged/*drug – dragged/*drug",
     "notes": "Strong, class 6, now usually regular; drug is used in some dialects"
   },
   {
-    "forms": "draw – drew – drawn\n\noutdraw – outdrew – outdrawn\noverdraw – overdrew – overdrawn\nredraw – redrew – redrawn\nunderdraw – underdrew – underdrawn\nwithdraw – withdrew – withdrawn\n\n",
+    "forms": "draw – drew – drawn",
     "notes": "Strong, class 6"
   },
   {
@@ -212,15 +209,15 @@
     "notes": "Weak with alternative (archaic) spelling"
   },
   {
-    "forms": "drink – drank/*drunk/*drinked – drunk/*drank/*drinked/*drunken\n\noutdrink – outdrank/*outdrunk/*outdrinked – outdrunk/*outdrank/*outdrinked/*outdrunken\noverdrink – overdrank/*overdrunk/*overdrinked – overdrunk/*overdrank/*overdrinked/*overdrunken\n\n",
+    "forms": "drink – drank/*drunk/*drinked – drunk/*drank/*drinked/*drunken",
     "notes": "Strong, class 3"
   },
   {
-    "forms": "drive – drove/*drave – driven\n\noverdrive – overdrove/*overdrave – overdriven\ntest-drive – test-drove/*test-drave – test-driven\n\n",
+    "forms": "drive – drove/*drave – driven",
     "notes": "Strong, class 1"
   },
   {
-    "forms": "dwell – dwelt/dwelled – dwelt/dwelled\n\nbedwell – bedwelt/bedwelled – bedwelt/bedwelled\noutdwell – outdwelt/outdwelled – outdwelt/outdwelled\n\n",
+    "forms": "dwell – dwelt/dwelled – dwelt/dwelled",
     "notes": "Weak with devoiced ending (or regular)"
   },
   {
@@ -228,31 +225,31 @@
     "notes": "Weak with devoiced ending (or regular)"
   },
   {
-    "forms": "eat – ate/*et – eaten\n\nforfret – forfretted – forfretted/forfretten\nfret – fretted/frate – fretted/fretten\nouteat – outate – outeaten\novereat – overate/*overet – overeaten\nundereat – underate/*underet – undereaten\n\n",
+    "forms": "eat – ate/*et – eaten",
     "notes": "Strong, class 5. Past tense usually /eɪt/, sometimes /ɛt/ in British English."
   },
   {
-    "forms": "fall – fell/*felled – fallen/*felled\n\nbefall – befell/*befelled – befallen/*befelled\n*misbefall – misbefell/*misbefelled – misbefallen/*misbefelled\n*misfall – misfell/*misfelled – misfallen/*misfelled\noutfall – outfell – outfallen\n\n",
+    "forms": "fall – fell/*felled – fallen/*felled",
     "notes": "Strong, class 7"
   },
   {
-    "forms": "feed – fed – fed\n\nbottle-feed – bottle-fed – bottle-fed\nbreastfeed – breastfed – breastfed\nforce-feed – force-fed – force-fed\nhand-feed – hand-fed – hand-fed\nmisfeed – misfed – misfed\noverfeed – overfed – overfed\nself-feed – self-fed – self-fed\nspoon-feed – spoon-fed – spoon-fed\nunderfeed – underfed – underfed\n\n",
+    "forms": "feed – fed – fed",
     "notes": "Weak with vowel shortening and coalescence of dentals"
   },
   {
-    "forms": "feel – felt – felt\n\nforefeel – forefelt – forefelt\n\n",
+    "forms": "feel – felt – felt",
     "notes": "Weak with vowel shortening and devoiced ending"
   },
   {
-    "forms": "fight – fought – fought/*foughten\n\nbefight – befought – befought\noutfight – outfought – outfought\n\n",
+    "forms": "fight – fought – fought/*foughten",
     "notes": "Strong, class 3"
   },
   {
-    "forms": "find – found/*fand – found/*founden\n\nrefind – refound/*refand – refound/*refounden\n\n",
+    "forms": "find – found/*fand – found/*founden",
     "notes": "Strong, class 3"
   },
   {
-    "forms": "fit – fitted/fit – fitted/fit\n\nmisfit – misfitted/misfit – misfitted/misfit\n\n",
+    "forms": "fit – fitted/fit – fitted/fit",
     "notes": "Weak with coalescence of dentals"
   },
   {
@@ -264,7 +261,7 @@
     "notes": "By analogy with strong, class 3"
   },
   {
-    "forms": "fly – flew – flown\n\noutfly – outflew – outflown\noverfly – overflew – overflown\ntest-fly – test-flew – test-flown\n\n",
+    "forms": "fly – flew – flown",
     "notes": "Strong, class 2. Regular when used for hitting a fly ball in baseball."
   },
   {
@@ -284,11 +281,11 @@
     "notes": "Strong, class 6"
   },
   {
-    "forms": "freeze – froze – frozen\n\nquick-freeze – quick-froze – quick-frozen\nrefreeze – refroze – refrozen\nunfreeze – unfroze – unfrozen\n\n",
+    "forms": "freeze – froze – frozen",
     "notes": "Strong, class 2"
   },
   {
-    "forms": "get – got/*gat – got/gotten\n\n*beget – begot/*begat – begot/begotten\nforget – forgot/*forgat – forgot/forgotten\n*misget – misgot/*misgat – misgot/misgotten\n*overget – overgot/*overgat – overgot/overgotten\n*underget – undergot/*undergat – undergot/undergotten\n\n",
+    "forms": "get – got/*gat – got/gotten",
     "notes": "Strong, class 5. Past participle is got in British usage (except in fossilized phrases such as \"ill-gotten\"), and gotten in American (but see have got)."
   },
   {
@@ -296,15 +293,15 @@
     "notes": "Weak with coalescence of dentals and devoiced ending (or regular)"
   },
   {
-    "forms": "gird – girded/*girt – girded/*girt\n\nundergird – undergirded/*undergirt – undergirded/*undergirt\n\n",
+    "forms": "gird – girded/*girt – girded/*girt",
     "notes": "Weak with coalescence of dentals and devoiced ending (or regular)"
   },
   {
-    "forms": "give – gave – given\n\nforgive – forgave – forgiven\nmisgive – misgave – misgiven\novergive – overgave – overgiven\n\n",
+    "forms": "give – gave – given",
     "notes": "Strong, class 5"
   },
   {
-    "forms": "go – went – gone\n\n*bego – bewent – begone\nforego – forewent – foregone\nforgo – forwent – forgone\n*overgo – overwent – overgone\nundergo – underwent – undergone\n*withgo – withwent – withgone\n\n",
+    "forms": "go – went – gone",
     "notes": "Suppletive. See article on the verb go."
   },
   {
@@ -316,11 +313,11 @@
     "notes": "Strong, class 3"
   },
   {
-    "forms": "grow – grew/*growed – grown/*growed\n\noutgrow – outgrew/*outgrowed – outgrown/*outgrowed\novergrow – overgrew/*overgrowed – overgrown/*overgrowed\nregrow – regrew/*regrowed – regrown/*regrowed\nundergrow – undergrew/*undergrowed – undergrown/*undergrowed\nupgrow – upgrew/*upgrowed – upgrown/*upgrowed\n\n",
+    "forms": "grow – grew/*growed – grown/*growed",
     "notes": "Strong, class 7"
   },
   {
-    "forms": "hang – hung/hanged – hung/hanged\n\noverhang – overhung/overhanged – overhung/overhanged\nunderhang – underhung/underhanged – underhung/underhanged\nuphang – uphung/uphanged – uphung/uphanged\n\n",
+    "forms": "hang – hung/hanged – hung/hanged",
     "notes": "Strong, class 7. Regularized alternative hanged was influenced by OE causative hangian, and is used chiefly for hanging as a means of execution."
   },
   {
@@ -328,11 +325,11 @@
     "notes": "Weak; had results from contraction, from OE haefd. Third person present has also a result of contraction."
   },
   {
-    "forms": "hear – heard – heard\n\nbehear – beheard – beheard\nforehear – foreheard – foreheard\nmishear – misheard – misheard\nouthear – outheard – outheard\noverhear – overheard – overheard\nrehear – reheard – reheard\nunhear – unheard – unheard\n\n",
+    "forms": "hear – heard – heard",
     "notes": "Weak, originally with vowel shortening (the modern pronunciation of heard in RP has the long vowel /ɜː/)"
   },
   {
-    "forms": "heave – heaved/*hove – heaved/*hove/*hoven\n\nupheave – upheaved/*uphove – upheaved/*uphove/*uphoven\n\n",
+    "forms": "heave – heaved/*hove – heaved/*hove/*hoven",
     "notes": "Strong, class 6, now usually regular except in nautical uses"
   },
   {
@@ -340,7 +337,7 @@
     "notes": "Originally strong, class 6, but now weak."
   },
   {
-    "forms": "hew – hewed/*hew – hewed/hewn\n\n*underhew – underhewed/*underhew – underhewed/underhewn\n\n",
+    "forms": "hew – hewed/*hew – hewed/hewn",
     "notes": "Strong, class 7 (or regular)"
   },
   {
@@ -348,7 +345,7 @@
     "notes": "Weak with vowel shortening and coalescence of dentals, influenced by strong verbs"
   },
   {
-    "forms": "hit – hit – hit\n\nmishit – mishit – mishit\noverhit – overhit – overhit\nunderhit – underhit – underhit\n\n",
+    "forms": "hit – hit – hit",
     "notes": "Weak with coalescence of dentals"
   },
   {
@@ -356,7 +353,7 @@
     "notes": "Weak, hoist was originally the past form of the now archaic verb hoise"
   },
   {
-    "forms": "hold – held – held/*holden\n\nbehold – beheld – beheld/*beholden\ninhold – inheld – inheld/*inholden\nmishold – misheld – misheld/*misholden\nuphold – upheld – upheld/*upholden\nwithhold – withheld – withheld/*withholden\n\n",
+    "forms": "hold – held – held/*holden",
     "notes": "Strong, class 7"
   },
   {
@@ -364,11 +361,11 @@
     "notes": "Weak with coalescence of dentals"
   },
   {
-    "forms": "keep – kept – kept\n\nmiskeep – miskept – miskept\noverkeep – overkept – overkept\nunderkeep – underkept – underkept\n\n",
+    "forms": "keep – kept – kept",
     "notes": "Weak with vowel shortening"
   },
   {
-    "forms": "ken – kenned/kent – kenned/kent\n\nbeken – bekenned/bekent – bekenned/bekent\nforeken – forekenned/forekent – forekenned/forekent\nmisken – miskenned/miskent – miskenned/miskent\noutken – outkenned/outkent – outkenned/outkent\n\n",
+    "forms": "ken – kenned/kent – kenned/kent",
     "notes": "Northern and Scottish dialect word. Weak with devoiced ending (or regular)"
   },
   {
@@ -376,15 +373,15 @@
     "notes": "Weak with vowel shortening and devoiced ending (or regular)"
   },
   {
-    "forms": "knit – knit/knitted – knit/knitted\n\nbeknit – beknit/beknitted – beknit/beknitted\nhand-knit – hand-knit/hand-knitted – hand-knit/hand-knitted\n\n",
+    "forms": "knit – knit/knitted – knit/knitted",
     "notes": "Weak with coalescence of dentals (or regular); related to knot"
   },
   {
-    "forms": "know – knew – known/*knowen\n\n*acknow – acknew – acknown/*acknowen\nforeknow – foreknew – foreknown/*foreknowen\nmisknow – misknew – misknown/*misknowen\n\n",
+    "forms": "know – knew – known/*knowen",
     "notes": "Strong, class 7"
   },
   {
-    "forms": "lade – laded – laden/laded\n\noverlade – overladed – overladen/overladed\n\n",
+    "forms": "lade – laded – laden/laded",
     "notes": "Strong, class 6, often regularized (past participle laden is common adjectivally)"
   },
   {
@@ -392,11 +389,11 @@
     "notes": "Originally strong, now weak, regular, with alternative (archaic) spelling"
   },
   {
-    "forms": "lay – laid/*layed – laid/*layed\n\nbelay – belaid/*belayed – belaid/*belayed\n*forelay – forelaid/*forelayed – forelaid/*forelayed\n*forlay – forlaid/*forlayed – forlaid/*forlayed\ninlay – inlaid/*inlayed – inlaid/*inlayed\ninterlay – interlaid/*interlayed – interlaid/*interlayed\nmislay – mislaid/*mislayed – mislaid/*mislayed\nonlay – onlaid/*onlayed – onlaid/*onlayed\noutlay – outlaid/*outlayed – outlaid/*outlayed\noverlay – overlaid/*overlayed – overlaid/*overlayed\nre-lay – re-laid/*re-layed – re-laid/*re-layed\nunderlay – underlaid/*underlayed – underlaid/*underlayed\nunlay – unlaid/*unlayed – unlaid/*unlayed\n*uplay – uplaid/*uplayed – uplaid/*uplayed\nwaylay – waylaid/*waylayed – waylaid/*waylayed\n\n",
+    "forms": "lay – laid/*layed – laid/*layed",
     "notes": "Weak, irregular in spelling only"
   },
   {
-    "forms": "lead – led – led\n\n*belead – beled – beled\n*forthlead – forthled – forthled\ninlead – inled – inled\nmislead – misled – misled\nofflead – offled – offled\nonlead – onled – onled\noutlead – outled – outled\noverlead – overled – overled\nunderlead – underled – underled\n*uplead – upled – upled\n\n",
+    "forms": "lead – led – led",
     "notes": "Weak with vowel shortening and coalescence of dentals"
   },
   {
@@ -404,31 +401,31 @@
     "notes": "Weak with vowel shortening and devoiced ending (or regular)"
   },
   {
-    "forms": "leap – leaped/leapt/*lept/*lope – leaped/leapt/*lopen\n\nbeleap – beleaped/beleapt/*belept/*belope – beleaped/beleapt/*belopen\nforthleap – forthleaped/forthleapt/*forthlept/*forthlope – forthleaped/forthleapt/*forthlopen\noutleap – outleaped/outleapt/*outlept/*outlope – outleaped/outleapt/*outlopen\noverleap – overleaped/overleapt/*overlept/*overlope – overleaped/overleapt/*overlopen\n\n",
+    "forms": "leap – leaped/leapt/*lept/*lope – leaped/leapt/*lopen",
     "notes": "Originally strong, class 7, now weak with vowel shortening (or regular)"
   },
   {
-    "forms": "learn – learned/learnt – learned/learnt\n\nmislearn – mislearned/mislearnt – mislearned/mislearnt\noverlearn – overlearned/overlearnt – overlearned/overlearnt\nrelearn – relearned/relearnt – relearned/relearnt\nunlearn – unlearned/unlearnt – unlearned/unlearnt\n\n",
+    "forms": "learn – learned/learnt – learned/learnt",
     "notes": "Weak with devoiced ending (or regular)"
   },
   {
-    "forms": "leave – left – left/*laft\n\nbeleave – beleft – beleft/*belaft\n*forleave – forleft – forleft/*forlaft\noverleave – overleft – overleft/*overlaft\n\n",
+    "forms": "leave – left – left/*laft",
     "notes": "Weak with vowel shortening and devoiced ending"
   },
   {
-    "forms": "lend – lent – lent\n\n*forlend – forlent – forlent\n\n",
+    "forms": "lend – lent – lent",
     "notes": "Weak with coalescence of dentals and devoiced ending"
   },
   {
-    "forms": "let – let/*leet – let/*letten\n\n*forlet – forlet/*forleet – forlet/*forletten\nsublet – sublet/*subleet – sublet/*subletten\n*underlet – underlet/*underleet – underlet/*underletten\n\n",
+    "forms": "let – let/*leet – let/*letten",
     "notes": "Strong, class 7"
   },
   {
-    "forms": "lie – lay – lain\n\n*forelie – forelay – forelain\n*forlie – forlay – forlain\noverlie – overlay – overlain\nunderlie – underlay – underlain\n\n",
+    "forms": "lie – lay – lain",
     "notes": "Strong, class 5. Regular in the meaning \"tell an untruth\"."
   },
   {
-    "forms": "light – lit/lighted – lit/lighted\n\nalight – alit/alighted – alit/alighted\nbacklight – backlit/backlighted – backlit/backlighted\ngreen-light – green-lit/green-lighted – green-lit/green-lighted\nrelight – relit/relighted – relit/relighted\n\n",
+    "forms": "light – lit/lighted – lit/lighted",
     "notes": "Weak with vowel shortening and coalescence of dentals (or regular)"
   },
   {
@@ -436,7 +433,7 @@
     "notes": "Originally strong, class 2, now weak with vowel shortening and devoiced ending"
   },
   {
-    "forms": "make – made – made\n\nremake – remade – remade\nunmake – unmade – unmade\n\n",
+    "forms": "make – made – made",
     "notes": "Weak; made formed by contraction from \"maked\""
   },
   {
@@ -476,7 +473,7 @@
     "notes": "Defective; originally a preterite. See English modal verbs"
   },
   {
-    "forms": "pay – paid/*payed – paid/*payed\n\noverpay – overpaid/*overpayed – overpaid/*overpayed\nprepay – prepaid/*prepayed – prepaid/*prepayed\nrepay – repaid/*repayed – repaid/*repayed\nunderpay – underpaid/*underpayed – underpaid/*underpayed\n\n",
+    "forms": "pay – paid/*payed – paid/*payed",
     "notes": "Weak, irregular in spelling only. The spelling payed is used in the meaning of letting out a rope etc."
   },
   {
@@ -488,15 +485,15 @@
     "notes": "French loanword, weak with vowel shortening and coalescence of dentals. In North America, this verb is usually irregular."
   },
   {
-    "forms": "prove – proved – proved/proven\n\nreprove – reproved – reproved/reproven\n\n",
+    "forms": "prove – proved – proved/proven",
     "notes": "French loanword, weak, with the alternative past participle proven by analogy with some strong verbs"
   },
   {
-    "forms": "put – put – put/*putten\n\ninput – input – input/*inputten\noutput – output – output/*outputten\n*underput – *underput – *underput/*underputten\n\n",
+    "forms": "put – put – put/*putten",
     "notes": "Weak with coalescence of dentals. Past participle form putten is characteristic for Yorkshire and Lancashire dialects."
   },
   {
-    "forms": "*queath/*quethe – queathed/quethed/quoth/quod – queathed/quethed/quoth/quethen\n\nbequeath – bequeathed/bequethed/bequoth/bequod – bequeathed/bequethed/bequoth/bequethen\n\n",
+    "forms": "*queath/*quethe – queathed/quethed/quoth/quod – queathed/quethed/quoth/quethen",
     "notes": "Strong, class 5. Past tense quoth is literary or archaic; other parts of that verb are obsolete. Bequeath is normally regularized in -ed."
   },
   {
@@ -508,11 +505,11 @@
     "notes": "Weak, now regular (archaic raught from original conjugation like teach)"
   },
   {
-    "forms": "read /riːd/ – read /rɛd/ – read /rɛd/ / *readen\n\n*foreread – foreread – foreread/*forereaden\nlipread – lipread – lipread/*lipreaden\nmisread – misread – misread/*misreaden\nproofread – proofread – proofread/*proofreaden\nreread – reread – reread/*rereaden\nsight-read – sight-read – sight-read/*sight-readen\n\n",
+    "forms": "read /riːd/ – read /rɛd/ – read /rɛd/ / *readen",
     "notes": "Weak with vowel shortening and coalescence of dentals"
   },
   {
-    "forms": "*reave – reaved/reft – reaved/reft\n\nbereave – bereaved/bereft – bereaved/bereft\n\n",
+    "forms": "*reave – reaved/reft – reaved/reft",
     "notes": "Weak with vowel shortening and devoiced ending. The verb bereave is usually regular, but bereft survives as past participle, with distinct meanings."
   },
   {
@@ -524,7 +521,7 @@
     "notes": "Weak with coalescence of dentals, or regular; ridden by analogy with strong verbs."
   },
   {
-    "forms": "ride – rode/*rid – ridden/*rid\n\noutride – outrode/*outrid – outridden/*outrid\noverride – overrode/*overrid – overridden/*overrid\n\n",
+    "forms": "ride – rode/*rid – ridden/*rid",
     "notes": "Strong, class 1"
   },
   {
@@ -532,7 +529,7 @@
     "notes": "By analogy with strong, class 3. Regular when meaning \"surround\", etc."
   },
   {
-    "forms": "rise – rose – risen\n\narise – arose – arisen\nuprise – uprose – uprisen\n\n",
+    "forms": "rise – rose – risen",
     "notes": "Strong, class 1"
   },
   {
@@ -540,7 +537,7 @@
     "notes": "From Old Norse, originally followed pattern of strong class 1, later regularized.[4] Now rarely used."
   },
   {
-    "forms": "run – ran – run\n\n*forerun – foreran – forerun\noutrun – outran – outrun\noverrun – overran – overrun\nrerun – reran – rerun\nunderrun – underran – underrun\n\n",
+    "forms": "run – ran – run",
     "notes": "Strong, class 3"
   },
   {
@@ -548,15 +545,15 @@
     "notes": "Weak; sawn by analogy with strong verbs[5]"
   },
   {
-    "forms": "say (says /sɛz/) – said – said\n\n*forsay – forsaid – forsaid\n*gainsay – gainsaid – gainsaid\nmissay – missaid – missaid\n*naysay – naysaid – naysaid\nsoothsay – soothsaid – soothsaid\n*withsay – withsaid – withsaid\n\n",
+    "forms": "say (says /sɛz/) – said – said",
     "notes": "Weak, with vowel shortening in said /sɛd/ and in the third person present says /sɛz/"
   },
   {
-    "forms": "see – saw – seen\n\n*besee – besaw – beseen\nforesee – foresaw – foreseen\nmissee – missaw – misseen\noversee – oversaw – overseen\nsightsee – sightsaw – sightseen\nundersee – undersaw – underseen\n\n",
+    "forms": "see – saw – seen",
     "notes": "Strong, class 5"
   },
   {
-    "forms": "seek – sought – sought\n\nbeseek – besought – besought\n\n",
+    "forms": "seek – sought – sought",
     "notes": "Weak with Rückumlaut and Germanic spirant law"
   },
   {
@@ -564,23 +561,23 @@
     "notes": "Strong, class 2. Now regular, but sodden survives in some adjectival uses."
   },
   {
-    "forms": "sell – sold – sold\n\noutsell – outsold – outsold\noversell – oversold – oversold\nresell – resold – resold\nundersell – undersold – undersold\nupsell – upsold – upsold\n\n",
+    "forms": "sell – sold – sold",
     "notes": "Weak with Rückumlaut"
   },
   {
-    "forms": "send – sent – sent\n\nmissend – missent – missent\nresend – resent – resent\n\n",
+    "forms": "send – sent – sent",
     "notes": "Weak with coalescence of dentals"
   },
   {
-    "forms": "set – set – set/*setten\n\nbeset – beset – beset/*besetten\nhandset – handset – handset/*handsetten\ninset – inset – inset/*insetten\nmisset – misset – misset/*missetten\noffset – offset – offset/*offsetten\noverset – overset – overset/*oversetten\npreset – preset – preset/*presetten\nreset – reset – reset/*resetten\nupset – upset – upset/*upsetten\n*withset – withset – withset/*withsetten\n\n",
+    "forms": "set – set – set/*setten",
     "notes": "Weak with coalescence of dentals"
   },
   {
-    "forms": "sew – sewed – sewn/sewed/*sewen\n\nhandsew – handsewed – handsewn/handsewed/*handsewen\noversew – oversewed – oversewn/oversewed/*oversewen\n\n",
+    "forms": "sew – sewed – sewn/sewed/*sewen",
     "notes": "Weak; sewn by analogy with strong verbs"
   },
   {
-    "forms": "shake – shook – shaken\n\novershake – overshook – overshaken\n\n",
+    "forms": "shake – shook – shaken",
     "notes": "Strong, class 6"
   },
   {
@@ -588,7 +585,7 @@
     "notes": "Preterite-present; defective. See English modal verbs, and shall and will"
   },
   {
-    "forms": "shape – shaped/*shope – shaped/*shapen\n\n*forshape – forshaped/*forshope – forshaped/*forshapen\nmisshape – misshaped/*misshope – misshaped/*misshapen\n\n",
+    "forms": "shape – shaped/*shope – shaped/*shapen",
     "notes": "Originally strong, class 6, now regular, but with misshapen (and archaically shapen) still used adjectivally"
   },
   {
@@ -604,27 +601,27 @@
     "notes": "Strong, class 7"
   },
   {
-    "forms": "shine – shone/shined – shone/shined\n\n*beshine – beshone/beshined – beshone/beshined\noutshine – beshone/beshined – beshone/beshined\novershine – beshone/beshined – beshone/beshined\n\n",
+    "forms": "shine – shone/shined – shone/shined",
     "notes": "Strong, class 1"
   },
   {
-    "forms": "shit – shit/shitted/shat – shit/shitted/shat/*shitten\n\nshite – shited/shit – shited/shit\n\n",
+    "forms": "shit – shit/shitted/shat – shit/shitted/shat/*shitten",
     "notes": "Strong, class 1. The form shite is chiefly Scottish and Irish."
   },
   {
-    "forms": "shoe – shod/shoed – shodden/shod/shoed\n\nreshoe – reshod/reshoed – reshodden/reshod/reshoed\n\n",
+    "forms": "shoe – shod/shoed – shodden/shod/shoed",
     "notes": "Weak with vowel shortening (or regular); shodden by analogy with strong verbs"
   },
   {
-    "forms": "shoot – shot – shot/*shotten\n\nmisshoot – misshot – misshot/*misshotten\novershoot – overshot – overshot/*overshotten\nreshoot – reshot – reshot/*reshotten\nundershoot – undershot – undershot/*undershotten\n\n",
+    "forms": "shoot – shot – shot/*shotten",
     "notes": "Strong, class 2"
   },
   {
-    "forms": "show – showed/*shew – shown/showed/*shewed\n\nforeshow – foreshowed/*foreshew – foreshown/foreshowed/*foreshewed\nreshow – reshowed/*reshew – reshown/reshowed/*reshewed\n\n",
+    "forms": "show – showed/*shew – shown/showed/*shewed",
     "notes": "Weak, with participle shown perhaps by analogy with sown (from sow)"
   },
   {
-    "forms": "shrink – shrank/shrunk – shrunk/shrunken\n\novershrink – overshrank/overshrunk – overshrunk/overshrunken\n\n",
+    "forms": "shrink – shrank/shrunk – shrunk/shrunken",
     "notes": "Strong, class 3; shrunken is mostly used adjectivally"
   },
   {
@@ -632,11 +629,11 @@
     "notes": "Strong, class 1"
   },
   {
-    "forms": "shut – shut – shut\n\nreshut – reshut – reshut\n\n",
+    "forms": "shut – shut – shut",
     "notes": "Weak with coalescence of dentals"
   },
   {
-    "forms": "sing – sang – sung/*sungen\n\nresing – resang – resung/*resungen\n\n",
+    "forms": "sing – sang – sung/*sungen",
     "notes": "Strong, class 3"
   },
   {
@@ -644,7 +641,7 @@
     "notes": "Strong, class 3. The form sunken appears in some adjectival uses."
   },
   {
-    "forms": "sit – sat/*sate – sat/*sitten\n\nbabysit – babysat/*babysate – babysat/*babysitten\nhousesit – housesat/*housesate – housesat/*housesitten\nresit – resat/*resate – resat/*resitten\n*withsit – withsat/*withsate – withsat/*withsitten\n\n",
+    "forms": "sit – sat/*sate – sat/*sitten",
     "notes": "Strong, class 5"
   },
   {
@@ -652,11 +649,11 @@
     "notes": "Strong, class 6 (or regular)"
   },
   {
-    "forms": "sleep – slept – slept\n\noversleep – overslept – overslept\nundersleep – underslept – underslept\n\n",
+    "forms": "sleep – slept – slept",
     "notes": "Originally strong, class 7, now weak with vowel shortening"
   },
   {
-    "forms": "slide – slid – slid/slidden\n\nbackslide – backslid – backslid/backslidden\noverslide – overslid – overslid/overslidden\n\n",
+    "forms": "slide – slid – slid/slidden",
     "notes": "Strong, class 1"
   },
   {
@@ -668,7 +665,7 @@
     "notes": "Strong, class 3"
   },
   {
-    "forms": "slip – slipped/*slipt – slipped/*slipt\n\n*overslip – *overslipped/*overslipt – *overslipped/*overslipt\n\n",
+    "forms": "slip – slipped/*slipt – slipped/*slipt",
     "notes": "Regular, with alternative (archaic) spelling"
   },
   {
@@ -692,7 +689,7 @@
     "notes": "Strong, class 7, with regularized past tense sowed"
   },
   {
-    "forms": "speak – spoke/*spake – spoken/*spoke\n\nbespeak – bespoke/*bespake – bespoken/*bespoke\n*forespeak – forespoke/*forespake – forespoken/*forespoke\n*forspeak – forspoke/*forspake – forspoken/*forspoke\nmisspeak – misspoke/*misspake – misspoken/*misspoke\n\n",
+    "forms": "speak – spoke/*spake – spoken/*spoke",
     "notes": "Strong, class 5"
   },
   {
@@ -700,19 +697,19 @@
     "notes": "Weak with vowel shortening and coalescence of dentals (or regular)"
   },
   {
-    "forms": "spell – spelled/spelt – spelled/spelt\n\nmisspell – misspelled/misspelt – misspelled/misspelt\n\n",
+    "forms": "spell – spelled/spelt – spelled/spelt",
     "notes": "Weak with devoiced ending (or regular)"
   },
   {
-    "forms": "spend – spent – spent\n\n*forspend – *forspent – *forspent\nmisspend – misspent – misspent\noutspend – outspent – outspent\noverspend – overspent – overspent\n\n",
+    "forms": "spend – spent – spent",
     "notes": "Weak with coalescence of dentals"
   },
   {
-    "forms": "spill – spilled/spilt – spilled/spilt\n\noverspill – overspilled/overspilt – overspilled/overspilt\n\n",
+    "forms": "spill – spilled/spilt – spilled/spilt",
     "notes": "Weak with devoiced ending (or regular)"
   },
   {
-    "forms": "spin – spun/*span – spun\n\noutspin – outspun/*outspan – outspun\n\n",
+    "forms": "spin – spun/*span – spun",
     "notes": "Strong, class 3"
   },
   {
@@ -728,19 +725,18 @@
     "notes": "Weak with devoiced ending (or regular)"
   },
   {
-    "forms": "spread – spread/*spreaded – spread/*spreaded\n\n*bespread – bespread/*bespreaded – bespread/*bespreaded\n*forspread – forspread – forspread\noutspread – outspread – outspread\noverspread – overspread – overspread\nunderspread – underspread – underspread\n\n",
+    "forms": "spread – spread/*spreaded – spread/*spreaded",
     "notes": "Weak with coalescence of dentals"
   },
   {
-    "forms": "sprenge – sprent – sprent\n\n*besprenge – besprent – besprent\n\n",
-    "notes": ""
+    "forms": "sprenge – sprent – sprent"
   },
   {
-    "forms": "spring – sprang/sprung – sprung/*sprang\n\nhandspring – handsprang/handsprung – handsprung/*handsprang\n\n",
+    "forms": "spring – sprang/sprung – sprung/*sprang",
     "notes": "Strong, class 3"
   },
   {
-    "forms": "stand – stood – stood/*standen\n\nforstand – forstood – forstood/*forstanden\nmisunderstand – misunderstood – misunderstood/*misunderstanden\noverstand – overstood – overstood/*overstanden\nunderstand – understood – understood/*understanden\nupstand – upstood – upstood/*upstanden\nwithstand – withstood – withstood/*withstanden\n\n",
+    "forms": "stand – stood – stood/*standen",
     "notes": "Strong, class 6"
   },
   {
@@ -776,31 +772,30 @@
     "notes": "Weak, now regular; obsolete past form straught as with teach–taught"
   },
   {
-    "forms": "strew – strewed – strewn/strewed\n\nbestrew – bestrewed – bestrewn/bestrewed\noverstrew – overstrewed – overstrewn/overstrewed\n\n",
+    "forms": "strew – strewed – strewn/strewed",
     "notes": "Originally weak, irregular forms by analogy with strong verbs"
   },
   {
-    "forms": "stride – strode/*strided – stridden/*strode/*strid/*stridded\n\nbestride – bestrode/*bestrided – bestridden/*bestrode/*bestrid/*bestridded\noutstride – outstrode/*outstrided – outstridden/*outstrode/*outstrid/*outstridded\noverstride – overstrode/*overstrided – overstridden/*overstrode/*overstrid/*overstridded\n\n",
+    "forms": "stride – strode/*strided – stridden/*strode/*strid/*stridded",
     "notes": "Strong, class 1"
   },
   {
-    "forms": "strike – struck – struck/stricken\n\noverstrike – overstruck – overstruck/overstricken\n\n",
+    "forms": "strike – struck – struck/stricken",
     "notes": "Strong, class 1. The form stricken is limited to certain adjectival and specialist uses."
   },
   {
-    "forms": "string – strung/*stringed – strung/*stringed\n\nhamstring – hamstrung/*hamstringed – hamstrung/*hamstringed\noverstring – overstrung/*overstringed – overstrung/*overstringed\n\n",
+    "forms": "string – strung/*stringed – strung/*stringed",
     "notes": "Originally weak, irregular forms developed by analogy with strong verbs"
   },
   {
-    "forms": "strip – stripped/stript – stripped/stript",
-    "notes": ""
+    "forms": "strip – stripped/stript – stripped/stript"
   },
   {
-    "forms": "strive – strove/strived – striven/strived\n\noutstrive – outstrove – outstriven\noverstrive – overstrove – overstriven\n\n",
+    "forms": "strive – strove/strived – striven/strived",
     "notes": "Strong, class 1 (or regularized)"
   },
   {
-    "forms": "swear – swore – sworn\n\nforswear – forswore – forsworn\noutswear – outswore – outsworn\n\n",
+    "forms": "swear – swore – sworn",
     "notes": "Strong, class 6"
   },
   {
@@ -808,11 +803,11 @@
     "notes": "Weak, usually regular, possible past form sweat with coalescence of dentals"
   },
   {
-    "forms": "sweep – swept/*sweeped – swept/*sweeped\n\nupsweep – upswept/*upsweeped – upswept/*upsweeped\n\n",
+    "forms": "sweep – swept/*sweeped – swept/*sweeped",
     "notes": "Weak with vowel shortening"
   },
   {
-    "forms": "swell – swelled/*swole/*swelt – swollen/swelled\n\nupswell – upswelled/*upswole/*upswelt – upswollen/upswelled\n\n",
+    "forms": "swell – swelled/*swole/*swelt – swollen/swelled",
     "notes": "Strong, class 3, with regularized forms"
   },
   {
@@ -820,19 +815,19 @@
     "notes": "Strong, class 3 (or regularized). Archaic"
   },
   {
-    "forms": "swim – swam/*swum – swum\n\noutswim – outswam/*outswum – outswum\n\n",
+    "forms": "swim – swam/*swum – swum",
     "notes": "Strong, class 3"
   },
   {
-    "forms": "swing – swang/swung – swung/*swungen\n\noverswing – overswang/overswung – overswung/*overswungen\n\n",
+    "forms": "swing – swang/swung – swung/*swungen",
     "notes": "Strong, class 3"
   },
   {
-    "forms": "*swink – swank/swonk/*swinkt/swinked – swunk/swunken/swonken/*swinkt/swinked\n\n*forswink – forswank/forswonk – forswunk/forswunken\n*toswink – toswank – toswunk/toswunken\n\n",
+    "forms": "*swink – swank/swonk/*swinkt/swinked – swunk/swunken/swonken/*swinkt/swinked",
     "notes": "Strong, class 3"
   },
   {
-    "forms": "take – took/*taked – taken\n\nbetake – betook/*betaked – betaken\nintake – intook/*intaked – intaken\nmistake – mistook/*mistaked – mistaken\novertake – overtook/*overtaked – overtaken\npartake – partook/*partaked – partaken\nretake – retook/*retaked – retaken\nundertake – undertook/*undertaked – undertaken\n*uptake – uptook/*uptaked – uptaken\n*withtake – withtook – withtaken\n\n",
+    "forms": "take – took/*taked – taken",
     "notes": "Strong, class 6"
   },
   {
@@ -840,19 +835,18 @@
     "notes": "Weak with Rückumlaut and Germanic spirant law"
   },
   {
-    "forms": "tear – tore – torn\n\nuptear – uptore – uptorn\n\n",
+    "forms": "tear – tore – torn",
     "notes": "Strong, class 4"
   },
   {
-    "forms": "*tee – teed/tow – teed/town\n\nbetee – beteed/betow – beteed/betown\nfortee – forteed/fortow – forteed/fortown\n\n",
-    "notes": ""
+    "forms": "*tee – teed/tow – teed/town"
   },
   {
-    "forms": "tell – told/*telled – told/*telled\n\nforetell – foretold/*foretelled – foretold/*foretelled\nforthtell – forthtold – forthtold\nmistell – mistold – mistold\n*outtell – outtold/*outtelled – outtold/*outtelled\nretell – retold/*retelled – retold/*retelled\n\n",
+    "forms": "tell – told/*telled – told/*telled",
     "notes": "Weak with Rückumlaut; related to tale"
   },
   {
-    "forms": "think – thought/*thinked – thought/*thinked\n\noutthink – outthought/*outthinked – outthought/*outthinked\nrethink – rethought/*rethinked – rethought/*rethinked\n\n",
+    "forms": "think – thought/*thinked – thought/*thinked",
     "notes": "Weak with Rückumlaut and Germanic spirant law"
   },
   {
@@ -860,23 +854,22 @@
     "notes": "Of Old Norse origin; followed strong class 1 (now archaic) or weak (regular) pattern[7]"
   },
   {
-    "forms": "throw – threw/*throwed – thrown/*throwed\n\nmisthrow – misthrew/*misthrowed – misthrown/*misthrowed\noutthrow – outthrew/*outthrowed – outthrown/*outthrowed\noverthrow – overthrew/*overthrowed – overthrown/*overthrowed\nunderthrow – underthrew/*underthrowed – underthrown/*underthrowed\nupthrow – upthrew/*upthrowed – upthrown/*upthrowed\n\n",
+    "forms": "throw – threw/*throwed – thrown/*throwed",
     "notes": "Strong, class 7"
   },
   {
-    "forms": "thrust – thrust/*thrusted – thrust/*thrusted\n\noutthrust – outthrust/*outthrusted – outthrust/*outthrusted\n\n",
+    "forms": "thrust – thrust/*thrusted – thrust/*thrusted",
     "notes": "Weak, with coalescence of dentals (or regular)"
   },
   {
-    "forms": "tread – trod/*tread/*treaded/*trodden – trodden/trod/*tread/*treaded\n\nretread – retrod/*retread/*retreaded/*retrodden – retrodden/retrod/*retread/*retreaded\n\n",
+    "forms": "tread – trod/*tread/*treaded/*trodden – trodden/trod/*tread/*treaded",
     "notes": "Strong, class 5 (or regularized)"
   },
   {
-    "forms": "vex – vexed/*vext – vexed/*vext",
-    "notes": ""
+    "forms": "vex – vexed/*vext – vexed/*vext"
   },
   {
-    "forms": "wake – woke/*waked – woken/*waked\n\nawake – awoke/*awaked – awoken/*awaked\n\n",
+    "forms": "wake – woke/*waked – woken/*waked",
     "notes": "Strong, class 6"
   },
   {
@@ -884,19 +877,19 @@
     "notes": "Strong, class 7, now regularized"
   },
   {
-    "forms": "wear – weared/wore – weared/worn\n\n*forwear – forweared/forwore – forweared/forworn\noutwear – outweared/outwore – outweared/outworn\noverwear – overweared/overwore – overweared/overworn\n\n",
+    "forms": "wear – weared/wore – weared/worn",
     "notes": "Originally weak, fell into a strong pattern by analogy with bear"
   },
   {
-    "forms": "weave – wove – woven\n\ninterweave – interwove – interwoven\n*unweave – unwove – unwoven\n\n",
+    "forms": "weave – wove – woven",
     "notes": "Strong, class 7"
   },
   {
-    "forms": "wed – wed/wedded – wed/wedded\n\nmiswed – miswed/miswedded – miswed/miswedded\nrewed – rewed/rewedded – rewed/rewedded\n\n",
+    "forms": "wed – wed/wedded – wed/wedded",
     "notes": "Weak with coalescence of dentals (or regular)"
   },
   {
-    "forms": "weep – wept/weeped – wept/weeped\n\n*beweep – bewept/beweeped – bewept/beweeped\n\n",
+    "forms": "weep – wept/weeped – wept/weeped",
     "notes": "Originally strong, class 7, now weak with vowel shortening"
   },
   {
@@ -904,7 +897,7 @@
     "notes": "Weak, once with coalescence of dentals and devoiced ending, but now regular; went is used as the past of go"
   },
   {
-    "forms": "wet – wet/wetted – wet/wetted\n\noverwet – overwet/overwetted – overwet/overwetted\n\n",
+    "forms": "wet – wet/wetted – wet/wetted",
     "notes": "Weak with coalescence of dentals (or regular)"
   },
   {
@@ -916,11 +909,11 @@
     "notes": "Strong, class 3"
   },
   {
-    "forms": "wind – wound – wound\n\nrewind – rewound – rewound\nunwind – unwound – unwound\n\n",
+    "forms": "wind – wound – wound",
     "notes": "Strong, class 3. (The identically spelt verb wind /wɪnd/, with meanings connected with air flow and breathlessness, is regular.)"
   },
   {
-    "forms": "work – worked/*wrought – worked/*wrought\n\noverwork – overworked/*overwrought – overworked/*overwrought\n\n",
+    "forms": "work – worked/*wrought – worked/*wrought",
     "notes": "Weak, now regular, formerly with Rückumlaut and metathesis of r and o"
   },
   {
@@ -936,7 +929,7 @@
     "notes": "Strong, class 3"
   },
   {
-    "forms": "write – wrote/*writ – written/*writ\n\ncowrite – cowrote/*writ – cowritten\nghostwrite – ghostwrote/*ghostwrit – ghostwritten/*ghostwrit\nhandwrite – handwrote/*handwrit – handwritten/*handwrit\nmiswrite – miswrote/*miswrit – miswritten/*miswrit\noverwrite – overwrote/*overwrit – overwritten/*overwrit\nrewrite – rewrote/*rewrit – rewritten/*rewrit\nunderwrite – underwrote/*underwrit – underwritten/*underwrit\n\n",
+    "forms": "write – wrote/*writ – written/*writ",
     "notes": "Strong, class 1"
   },
   {
@@ -944,7 +937,6 @@
     "notes": "Strong, class 1, now regularized"
   },
   {
-    "forms": "zinc – zinced/zinked/zincked – zinced/zinked/zincked",
-    "notes": ""
+    "forms": "zinc – zinced/zinked/zincked – zinced/zinked/zincked"
   }
 ]
