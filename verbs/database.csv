@@ -1,5 +1,5 @@
 ache (ake),ached (oke),ached (aken)
-be,was (were),been
+"be (am, is, are)",was (were),been
 bear,bore,borne (born)
 beat,beat,beaten (beat)
 become,became,become
@@ -41,11 +41,11 @@ cost,cost (costed),cost (costed)
 creep,crept (creeped),crept (creeped)
 crow,crowed (crew),crowed
 cut,cut,cut
-dare,dared,dared
+"dare (dares, dare)",dared,dared
 deal,dealt,dealt
 dig,dug,dug
 dive,dived (dove),dived (dove)
-do,did,done
+do (does),did,done
 dow,dowed (dought),dowed (dought)
 drag,dragged,dragged
 draw,drew,drawn
@@ -79,7 +79,7 @@ go,went,gone
 grind,ground (grinded),ground (grinded)
 grow,grew,grown
 hang,hung (hanged),hung (hanged)
-have,had,had
+have (has),had,had
 hear,heard,heard
 heave,heaved,heaved
 help,helped,helped
@@ -115,7 +115,7 @@ melt,melted,melted (molten)
 mix,mixed,mixed
 mow,mowed,mowed (mown)
 must,,
-need,needed,needed
+"need (needs, need)",needed,needed
 ought,,
 pay,paid,paid
 pen,penned (pent),penned (pent)
@@ -125,7 +125,7 @@ put,put,put
 ,"queathed (quethed, quoth, quod)","queathed (quethed, quoth, quethen)"
 quit,quit (quitted),quit (quitted)
 reach,reached,reached
-read  (riːd),read  (rɛd),"read  (rɛd,  ,  *readen)"
+read,read,read
 ,reaved (reft),reaved (reft)
 rend,rent,rent
 rid,rid (ridded),"rid (ridden, ridded)"
@@ -135,7 +135,7 @@ rise,rose,risen
 rive,rived (rove),rived (riven)
 run,ran,run
 saw,sawed,sawed (sawn)
-say,said,said
+say (says),said,said
 see,saw,seen
 seek,sought,sought
 seethe,seethed,seethed

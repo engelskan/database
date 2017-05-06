@@ -5,7 +5,7 @@
     "perfect": "ached (aken)"
   },
   {
-    "present": "be",
+    "present": "be (am, is, are)",
     "past": "was (were)",
     "perfect": "been"
   },
@@ -211,7 +211,7 @@
     "perfect": "cut"
   },
   {
-    "present": "dare",
+    "present": "dare (dares, dare)",
     "past": "dared",
     "perfect": "dared"
   },
@@ -231,7 +231,7 @@
     "perfect": "dived (dove)"
   },
   {
-    "present": "do",
+    "present": "do (does)",
     "past": "did",
     "perfect": "done"
   },
@@ -399,7 +399,7 @@
     "perfect": "hung (hanged)"
   },
   {
-    "present": "have",
+    "present": "have (has)",
     "past": "had",
     "perfect": "had"
   },
@@ -576,7 +576,7 @@
     "present": "must"
   },
   {
-    "present": "need",
+    "present": "need (needs, need)",
     "past": "needed",
     "perfect": "needed"
   },
@@ -623,9 +623,9 @@
     "perfect": "reached"
   },
   {
-    "present": "read  (riːd)",
-    "past": "read  (rɛd)",
-    "perfect": "read  (rɛd,  ,  *readen)"
+    "present": "read",
+    "past": "read",
+    "perfect": "read"
   },
   {
     "past": "reaved (reft)",
@@ -672,7 +672,7 @@
     "perfect": "sawed (sawn)"
   },
   {
-    "present": "say",
+    "present": "say (says)",
     "past": "said",
     "perfect": "said"
   },
