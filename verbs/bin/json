@@ -4,18 +4,40 @@ require 'json'
 require 'nokogiri'
 
 class Record
-  ATTRIBUTES = %i(forms notes)
+  ATTRIBUTES = %i(present past perfect notes)
+  HTML_ATTRIBUTES = %i(forms notes)
 
-  attr_accessor *ATTRIBUTES
+  attr_reader *ATTRIBUTES
 
   def initialize(element)
     attributes = element.css('td')
-    if attributes.length != ATTRIBUTES.length
-      raise "expected #{ATTRIBUTES.length} columns"
+    if attributes.length != HTML_ATTRIBUTES.length
+      raise "expected #{HTML_ATTRIBUTES.length} columns"
     end
-    ATTRIBUTES.each_with_index do |attribute, i|
-      self.send("#{attribute}=", typography(attributes[i].text))
+    HTML_ATTRIBUTES.each_with_index do |attribute, i|
+      self.send("#{attribute}=", attributes[i].text)
     end
+  end
+
+  def forms=(text)
+    text = text.split("\n")[0]
+    chunks = text.split('–').collect do |chunk|
+      chunk.gsub!(/\([^()]*\)/, '')
+      chunk.gsub!(/\[[^\[\]]*\]/, '')
+      chunk.gsub!(/\s*,\s*/, '/')
+      chunk.strip!
+      chunk.empty? ? nil : chunk
+    end
+    raise 'found a malformed verb' if chunks.length > 3
+    chunks.push(nil) while chunks.length < 3
+    @present = chunks[0]
+    @past = chunks[1]
+    @perfect = chunks[2]
+  end
+
+  def notes=(text)
+    text.strip!
+    @notes = text.empty? ? nil : text
   end
 
   def to_json(options = {})
@@ -30,10 +52,6 @@ class Record
     end
     object
   end
-end
-
-def typography(text)
-  text.split("\n")[0]
 end
 
 raise 'an HTML file is required' if ARGV.length < 1
