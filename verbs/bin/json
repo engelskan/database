@@ -28,8 +28,14 @@ class Record
       chunk.strip!
       chunks = chunk.split('/')
       chunks.reject! { |chunk| chunk.start_with?('*') }
-      chunk = chunks.join('/')
-      chunk.empty? ? nil : chunk
+      count = chunks.length
+      if count == 0
+        nil
+      elsif count == 1
+        chunks[0]
+      else
+        "#{chunks[0]} (#{chunks[1..count].join(', ')})"
+      end
     end
     raise 'found a malformed verb' if chunks.length > 3
     chunks.push(nil) while chunks.length < 3
