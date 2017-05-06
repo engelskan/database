@@ -24,8 +24,11 @@ class Record
     chunks = text.split('–').collect do |chunk|
       chunk.gsub!(/\([^()]*\)/, '')
       chunk.gsub!(/\[[^\[\]]*\]/, '')
-      chunk.gsub!(/\s*,\s*/, '/')
+      chunk.gsub!(/, /, '/')
       chunk.strip!
+      chunks = chunk.split('/')
+      chunks.reject! { |chunk| chunk.start_with?('*') }
+      chunk = chunks.join('/')
       chunk.empty? ? nil : chunk
     end
     raise 'found a malformed verb' if chunks.length > 3
