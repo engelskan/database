@@ -4,7 +4,7 @@ require 'json'
 require 'nokogiri'
 
 class Record
-  ATTRIBUTES = %i(present past perfect notes)
+  ATTRIBUTES = %i(present past perfect)
   HTML_ATTRIBUTES = %i(forms notes)
 
   attr_reader *ATTRIBUTES

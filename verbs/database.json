@@ -7,191 +7,159 @@
   {
     "present": "be",
     "past": "was (were)",
-    "perfect": "been",
-    "notes": "Suppletive. See Indo-European copula."
+    "perfect": "been"
   },
   {
     "present": "bear",
     "past": "bore",
-    "perfect": "borne (born)",
-    "notes": "Strong, class 4. The spelling born is used in passive or adjectival contexts relating to birth."
+    "perfect": "borne (born)"
   },
   {
     "present": "beat",
     "past": "beat",
-    "perfect": "beaten (beat)",
-    "notes": "Strong, class 7"
+    "perfect": "beaten (beat)"
   },
   {
     "present": "become",
     "past": "became",
-    "perfect": "become",
-    "notes": "Strong, class 4"
+    "perfect": "become"
   },
   {
     "present": "beget",
     "past": "begot",
-    "perfect": "begotten (begot)",
-    "notes": "Strong, class 5"
+    "perfect": "begotten (begot)"
   },
   {
     "present": "begin",
     "past": "began",
-    "perfect": "begun",
-    "notes": "Strong, class 3"
+    "perfect": "begun"
   },
   {
     "present": "bend",
     "past": "bent",
-    "perfect": "bent",
-    "notes": "Weak with coalescence of dentals"
+    "perfect": "bent"
   },
   {
     "present": "beseech",
     "past": "beseeched",
-    "perfect": "beseeched",
-    "notes": "Weak with Rückumlaut and Germanic spirant law (now regularized)"
+    "perfect": "beseeched"
   },
   {
     "present": "bet",
     "past": "bet (betted)",
-    "perfect": "bet (betted)",
-    "notes": "Weak with coalescence of dentals"
+    "perfect": "bet (betted)"
   },
   {
-    "present": "beware",
-    "notes": "Defective; formed from be with predicate adjective, used as infinitive, imperative and subjunctive only. Inflected forms (bewares, bewared, bewaring) are considered obsolete."
-  },
-  {
-    "present": "bid",
-    "past": "bid",
-    "perfect": "bid",
-    "notes": "Weak with coalescence of dentals"
+    "present": "beware"
   },
   {
     "present": "bid",
     "past": "bid",
-    "perfect": "bid",
-    "notes": "Strong, class 5"
+    "perfect": "bid"
+  },
+  {
+    "present": "bid",
+    "past": "bid",
+    "perfect": "bid"
   },
   {
     "present": "bide",
     "past": "bided (bode)",
-    "perfect": "bided (bidden)",
-    "notes": "Strong, class 1"
+    "perfect": "bided (bidden)"
   },
   {
     "present": "bind",
     "past": "bound",
-    "perfect": "bound",
-    "notes": "Strong, class 3"
+    "perfect": "bound"
   },
   {
     "present": "bite",
     "past": "bit",
-    "perfect": "bitten",
-    "notes": "Strong, class 1"
+    "perfect": "bitten"
   },
   {
     "present": "bleed",
     "past": "bled",
-    "perfect": "bled",
-    "notes": "Weak with vowel shortening and coalescence of dentals"
+    "perfect": "bled"
   },
   {
     "present": "bless",
     "past": "blessed",
-    "perfect": "blessed",
-    "notes": "Weak, regular with alternative (archaic) spelling"
+    "perfect": "blessed"
   },
   {
     "present": "blow",
     "past": "blew",
-    "perfect": "blown",
-    "notes": "Strong, class 7"
+    "perfect": "blown"
   },
   {
     "present": "break",
     "past": "broke",
-    "perfect": "broken",
-    "notes": "Strong, class 4"
+    "perfect": "broken"
   },
   {
     "present": "breed",
     "past": "bred",
-    "perfect": "bred",
-    "notes": "Weak with vowel shortening and coalescence of dentals"
+    "perfect": "bred"
   },
   {
     "present": "bring",
     "past": "brought",
-    "perfect": "brought",
-    "notes": "Weak with Rückumlaut and Germanic spirant law"
+    "perfect": "brought"
   },
   {
     "present": "build",
     "past": "built",
-    "perfect": "built",
-    "notes": "Weak with coalescence of dentals and devoiced ending"
+    "perfect": "built"
   },
   {
     "present": "burn",
     "past": "burned (burnt)",
-    "perfect": "burned (burnt)",
-    "notes": "Weak with devoiced ending (or regular)"
+    "perfect": "burned (burnt)"
   },
   {
     "present": "burst",
     "past": "burst",
-    "perfect": "burst",
-    "notes": "Strong, class 3"
+    "perfect": "burst"
   },
   {
     "present": "bust",
     "past": "busted (bust)",
-    "perfect": "busted (bust)",
-    "notes": "Strong, class 3 (or regular)"
+    "perfect": "busted (bust)"
   },
   {
     "present": "buy",
     "past": "bought",
-    "perfect": "bought",
-    "notes": "Weak with Rückumlaut and Germanic spirant law"
+    "perfect": "bought"
   },
   {
     "present": "can",
-    "past": "could",
-    "notes": "Preterite-present, defective. See English modal verbs"
+    "past": "could"
   },
   {
     "present": "cast",
     "past": "cast",
-    "perfect": "cast",
-    "notes": "Weak with coalescence of dentals. Many of the prefixed forms can also take -ed."
+    "perfect": "cast"
   },
   {
     "present": "catch",
     "past": "caught",
-    "perfect": "caught",
-    "notes": "Weak, French loanword conjugated perhaps by analogy with teach–taught"
+    "perfect": "caught"
   },
   {
     "present": "chide",
     "past": "chided (chid)",
-    "perfect": "chided (chid, chidden)",
-    "notes": "Strong, class 1"
+    "perfect": "chided (chid, chidden)"
   },
   {
     "present": "choose",
     "past": "chose",
-    "perfect": "chosen",
-    "notes": "Strong, class 2"
+    "perfect": "chosen"
   },
   {
     "present": "clad",
     "past": "clad",
-    "perfect": "clad",
-    "notes": "Developed from clad, the past form of clothe (see below)."
+    "perfect": "clad"
   },
   {
     "present": "clap",
@@ -201,85 +169,71 @@
   {
     "present": "cleave",
     "past": "cleft (clove, cleaved)",
-    "perfect": "cleft (cloven, cleaved)",
-    "notes": "Strong, class 2, sometimes switching to weak with vowel shortening. When meaning \"adhere\" the verb is regular."
+    "perfect": "cleft (cloven, cleaved)"
   },
   {
     "past": "cleped (clepen)",
-    "perfect": "cleped",
-    "notes": "Weak with vowel shortening, or regular. Obsolete or dialectal."
+    "perfect": "cleped"
   },
   {
     "present": "cling",
     "past": "clung",
-    "perfect": "clung",
-    "notes": "Strong, class 3"
+    "perfect": "clung"
   },
   {
     "present": "clothe",
     "past": "clad (clothed)",
-    "perfect": "clad (clothed)",
-    "notes": "Weak; the regular clothed is from OE claþian, while clad (weak with coalescence of dentals) is from OE clæþan (both OE verbs having similar meaning).[1]"
+    "perfect": "clad (clothed)"
   },
   {
     "present": "come",
     "past": "came",
-    "perfect": "come (comen)",
-    "notes": "Strong, class 4"
+    "perfect": "come (comen)"
   },
   {
     "present": "cost",
     "past": "cost (costed)",
-    "perfect": "cost (costed)",
-    "notes": "Weak with coalescence of dentals. Regular when meaning \"calculate the cost of\"."
+    "perfect": "cost (costed)"
   },
   {
     "present": "creep",
     "past": "crept (creeped)",
-    "perfect": "crept (creeped)",
-    "notes": "Originally strong, class 2; switched to weak with vowel shortening (or regular)"
+    "perfect": "crept (creeped)"
   },
   {
     "present": "crow",
     "past": "crowed (crew)",
-    "perfect": "crowed",
-    "notes": "Strong, class 7. Now usually regular, but crew can still be used of a cock's crowing."
+    "perfect": "crowed"
   },
   {
     "present": "cut",
     "past": "cut",
-    "perfect": "cut",
-    "notes": "Weak with coalescence of dentals"
+    "perfect": "cut"
   },
   {
     "present": "dare",
     "past": "dared",
-    "perfect": "dared",
-    "notes": "Preterite-present, now regular except in the use of dare in place of dares in some contexts. See English modal verbs"
+    "perfect": "dared"
   },
   {
     "present": "deal",
     "past": "dealt",
-    "perfect": "dealt",
-    "notes": "Weak with vowel shortening and devoiced ending"
+    "perfect": "dealt"
   },
   {
     "present": "dig",
     "past": "dug",
-    "perfect": "dug",
-    "notes": "Originally weak; past form dug developed by analogy with stick–stuck[2]"
+    "perfect": "dug"
   },
   {
     "present": "dive",
     "past": "dived (dove)",
-    "perfect": "dived (dove)",
-    "notes": "Weak, the alternative dove (found mainly in American usage) arising by analogy with strong verbs"
+    "perfect": "dived (dove)"
   },
   {
     "present": "do",
     "past": "did",
-    "perfect": "done",
-    "notes": "Irregular since Proto-Germanic: past tense formed by reduplication. Past participle from Old English gedon"
+    "perfect": "done"
   },
   {
     "present": "dow",
@@ -289,795 +243,661 @@
   {
     "present": "drag",
     "past": "dragged",
-    "perfect": "dragged",
-    "notes": "Strong, class 6, now usually regular; drug is used in some dialects"
+    "perfect": "dragged"
   },
   {
     "present": "draw",
     "past": "drew",
-    "perfect": "drawn",
-    "notes": "Strong, class 6"
+    "perfect": "drawn"
   },
   {
     "present": "dream",
     "past": "dreamed (dreamt)",
-    "perfect": "dreamed (dreamt)",
-    "notes": "Weak with vowel shortening and devoiced ending (or regular)"
+    "perfect": "dreamed (dreamt)"
   },
   {
     "present": "dress",
     "past": "dressed",
-    "perfect": "dressed",
-    "notes": "Weak with alternative (archaic) spelling"
+    "perfect": "dressed"
   },
   {
     "present": "drink",
     "past": "drank",
-    "perfect": "drunk",
-    "notes": "Strong, class 3"
+    "perfect": "drunk"
   },
   {
     "present": "drive",
     "past": "drove",
-    "perfect": "driven",
-    "notes": "Strong, class 1"
+    "perfect": "driven"
   },
   {
     "present": "dwell",
     "past": "dwelt (dwelled)",
-    "perfect": "dwelt (dwelled)",
-    "notes": "Weak with devoiced ending (or regular)"
+    "perfect": "dwelt (dwelled)"
   },
   {
     "present": "earn",
     "past": "earned (earnt)",
-    "perfect": "earned (earnt)",
-    "notes": "Weak with devoiced ending (or regular)"
+    "perfect": "earned (earnt)"
   },
   {
     "present": "eat",
     "past": "ate",
-    "perfect": "eaten",
-    "notes": "Strong, class 5. Past tense usually /eɪt/, sometimes /ɛt/ in British English."
+    "perfect": "eaten"
   },
   {
     "present": "fall",
     "past": "fell",
-    "perfect": "fallen",
-    "notes": "Strong, class 7"
+    "perfect": "fallen"
   },
   {
     "present": "feed",
     "past": "fed",
-    "perfect": "fed",
-    "notes": "Weak with vowel shortening and coalescence of dentals"
+    "perfect": "fed"
   },
   {
     "present": "feel",
     "past": "felt",
-    "perfect": "felt",
-    "notes": "Weak with vowel shortening and devoiced ending"
+    "perfect": "felt"
   },
   {
     "present": "fight",
     "past": "fought",
-    "perfect": "fought",
-    "notes": "Strong, class 3"
+    "perfect": "fought"
   },
   {
     "present": "find",
     "past": "found",
-    "perfect": "found",
-    "notes": "Strong, class 3"
+    "perfect": "found"
   },
   {
     "present": "fit",
     "past": "fitted (fit)",
-    "perfect": "fitted (fit)",
-    "notes": "Weak with coalescence of dentals"
+    "perfect": "fitted (fit)"
   },
   {
     "present": "flee",
     "past": "fled",
-    "perfect": "fled",
-    "notes": "Originally strong, class 2, switched to weak with vowel shortening"
+    "perfect": "fled"
   },
   {
     "present": "fling",
     "past": "flung",
-    "perfect": "flung",
-    "notes": "By analogy with strong, class 3"
+    "perfect": "flung"
   },
   {
     "present": "fly",
     "past": "flew",
-    "perfect": "flown",
-    "notes": "Strong, class 2. Regular when used for hitting a fly ball in baseball."
+    "perfect": "flown"
   },
   {
     "present": "forbid",
     "past": "forbid (forbade, forbad)",
-    "perfect": "forbidden",
-    "notes": "Strong, class 5"
+    "perfect": "forbidden"
   },
   {
     "present": "forget",
     "past": "forgot",
-    "perfect": "forgotten",
-    "notes": "Strong, class 5"
+    "perfect": "forgotten"
   },
   {
     "past": "forlore",
-    "perfect": "forlorn",
-    "notes": "Past participle remains in use adjectivally."
+    "perfect": "forlorn"
   },
   {
     "present": "forsake",
     "past": "forsook",
-    "perfect": "forsaken",
-    "notes": "Strong, class 6"
+    "perfect": "forsaken"
   },
   {
     "present": "freeze",
     "past": "froze",
-    "perfect": "frozen",
-    "notes": "Strong, class 2"
+    "perfect": "frozen"
   },
   {
     "present": "get",
     "past": "got",
-    "perfect": "got (gotten)",
-    "notes": "Strong, class 5. Past participle is got in British usage (except in fossilized phrases such as \"ill-gotten\"), and gotten in American (but see have got)."
+    "perfect": "got (gotten)"
   },
   {
     "present": "gild",
     "past": "gilded (gilt)",
-    "perfect": "gilded (gilt)",
-    "notes": "Weak with coalescence of dentals and devoiced ending (or regular)"
+    "perfect": "gilded (gilt)"
   },
   {
     "present": "gird",
     "past": "girded",
-    "perfect": "girded",
-    "notes": "Weak with coalescence of dentals and devoiced ending (or regular)"
+    "perfect": "girded"
   },
   {
     "present": "give",
     "past": "gave",
-    "perfect": "given",
-    "notes": "Strong, class 5"
+    "perfect": "given"
   },
   {
     "present": "go",
     "past": "went",
-    "perfect": "gone",
-    "notes": "Suppletive. See article on the verb go."
+    "perfect": "gone"
   },
   {
     "past": "grove (graved)",
-    "perfect": "graven (graved)",
-    "notes": "Strong, class 6. Past participle graven remains in use adjectivally, as in graven images in archaic language, e.g. from the 17th century. The verb engrave is regular."
+    "perfect": "graven (graved)"
   },
   {
     "present": "grind",
     "past": "ground (grinded)",
-    "perfect": "ground (grinded)",
-    "notes": "Strong, class 3"
+    "perfect": "ground (grinded)"
   },
   {
     "present": "grow",
     "past": "grew",
-    "perfect": "grown",
-    "notes": "Strong, class 7"
+    "perfect": "grown"
   },
   {
     "present": "hang",
     "past": "hung (hanged)",
-    "perfect": "hung (hanged)",
-    "notes": "Strong, class 7. Regularized alternative hanged was influenced by OE causative hangian, and is used chiefly for hanging as a means of execution."
+    "perfect": "hung (hanged)"
   },
   {
     "present": "have",
     "past": "had",
-    "perfect": "had",
-    "notes": "Weak; had results from contraction, from OE haefd. Third person present has also a result of contraction."
+    "perfect": "had"
   },
   {
     "present": "hear",
     "past": "heard",
-    "perfect": "heard",
-    "notes": "Weak, originally with vowel shortening (the modern pronunciation of heard in RP has the long vowel /ɜː/)"
+    "perfect": "heard"
   },
   {
     "present": "heave",
     "past": "heaved",
-    "perfect": "heaved",
-    "notes": "Strong, class 6, now usually regular except in nautical uses"
+    "perfect": "heaved"
   },
   {
     "present": "help",
     "past": "helped",
-    "perfect": "helped",
-    "notes": "Originally strong, class 6, but now weak."
+    "perfect": "helped"
   },
   {
     "present": "hew",
     "past": "hewed",
-    "perfect": "hewed (hewn)",
-    "notes": "Strong, class 7 (or regular)"
+    "perfect": "hewed (hewn)"
   },
   {
     "present": "hide",
     "past": "hid",
-    "perfect": "hidden",
-    "notes": "Weak with vowel shortening and coalescence of dentals, influenced by strong verbs"
+    "perfect": "hidden"
   },
   {
     "present": "hit",
     "past": "hit",
-    "perfect": "hit",
-    "notes": "Weak with coalescence of dentals"
+    "perfect": "hit"
   },
   {
     "present": "hoist",
     "past": "hoisted (hoist)",
-    "perfect": "hoisted (hoist)",
-    "notes": "Weak, hoist was originally the past form of the now archaic verb hoise"
+    "perfect": "hoisted (hoist)"
   },
   {
     "present": "hold",
     "past": "held",
-    "perfect": "held",
-    "notes": "Strong, class 7"
+    "perfect": "held"
   },
   {
     "present": "hurt",
     "past": "hurt",
-    "perfect": "hurt",
-    "notes": "Weak with coalescence of dentals"
+    "perfect": "hurt"
   },
   {
     "present": "keep",
     "past": "kept",
-    "perfect": "kept",
-    "notes": "Weak with vowel shortening"
+    "perfect": "kept"
   },
   {
     "present": "ken",
     "past": "kenned (kent)",
-    "perfect": "kenned (kent)",
-    "notes": "Northern and Scottish dialect word. Weak with devoiced ending (or regular)"
+    "perfect": "kenned (kent)"
   },
   {
     "present": "kneel",
     "past": "knelt (kneeled)",
-    "perfect": "knelt (kneeled)",
-    "notes": "Weak with vowel shortening and devoiced ending (or regular)"
+    "perfect": "knelt (kneeled)"
   },
   {
     "present": "knit",
     "past": "knit (knitted)",
-    "perfect": "knit (knitted)",
-    "notes": "Weak with coalescence of dentals (or regular); related to knot"
+    "perfect": "knit (knitted)"
   },
   {
     "present": "know",
     "past": "knew",
-    "perfect": "known",
-    "notes": "Strong, class 7"
+    "perfect": "known"
   },
   {
     "present": "lade",
     "past": "laded",
-    "perfect": "laden (laded)",
-    "notes": "Strong, class 6, often regularized (past participle laden is common adjectivally)"
+    "perfect": "laden (laded)"
   },
   {
     "present": "laugh",
     "past": "laughed",
-    "perfect": "laughed",
-    "notes": "Originally strong, now weak, regular, with alternative (archaic) spelling"
+    "perfect": "laughed"
   },
   {
     "present": "lay",
     "past": "laid",
-    "perfect": "laid",
-    "notes": "Weak, irregular in spelling only"
+    "perfect": "laid"
   },
   {
     "present": "lead",
     "past": "led",
-    "perfect": "led",
-    "notes": "Weak with vowel shortening and coalescence of dentals"
+    "perfect": "led"
   },
   {
     "present": "lean",
     "past": "leaned (leant)",
-    "perfect": "leaned (leant)",
-    "notes": "Weak with vowel shortening and devoiced ending (or regular)"
+    "perfect": "leaned (leant)"
   },
   {
     "present": "leap",
     "past": "leaped (leapt)",
-    "perfect": "leaped (leapt)",
-    "notes": "Originally strong, class 7, now weak with vowel shortening (or regular)"
+    "perfect": "leaped (leapt)"
   },
   {
     "present": "learn",
     "past": "learned (learnt)",
-    "perfect": "learned (learnt)",
-    "notes": "Weak with devoiced ending (or regular)"
+    "perfect": "learned (learnt)"
   },
   {
     "present": "leave",
     "past": "left",
-    "perfect": "left",
-    "notes": "Weak with vowel shortening and devoiced ending"
+    "perfect": "left"
   },
   {
     "present": "lend",
     "past": "lent",
-    "perfect": "lent",
-    "notes": "Weak with coalescence of dentals and devoiced ending"
+    "perfect": "lent"
   },
   {
     "present": "let",
     "past": "let",
-    "perfect": "let",
-    "notes": "Strong, class 7"
+    "perfect": "let"
   },
   {
     "present": "lie",
     "past": "lay",
-    "perfect": "lain",
-    "notes": "Strong, class 5. Regular in the meaning \"tell an untruth\"."
+    "perfect": "lain"
   },
   {
     "present": "light",
     "past": "lit (lighted)",
-    "perfect": "lit (lighted)",
-    "notes": "Weak with vowel shortening and coalescence of dentals (or regular)"
+    "perfect": "lit (lighted)"
   },
   {
     "present": "lose",
     "past": "lost",
-    "perfect": "lost",
-    "notes": "Originally strong, class 2, now weak with vowel shortening and devoiced ending"
+    "perfect": "lost"
   },
   {
     "present": "make",
     "past": "made",
-    "perfect": "made",
-    "notes": "Weak; made formed by contraction from \"maked\""
+    "perfect": "made"
   },
   {
     "present": "may",
-    "past": "might",
-    "notes": "Preterite-present, defective. See English modal verbs"
+    "past": "might"
   },
   {
     "present": "mean",
     "past": "meant",
-    "perfect": "meant",
-    "notes": "Weak with vowel shortening and devoiced ending"
+    "perfect": "meant"
   },
   {
     "present": "meet",
     "past": "met",
-    "perfect": "met",
-    "notes": "Weak with vowel shortening and coalescence of dentals"
+    "perfect": "met"
   },
   {
     "present": "melt",
     "past": "melted",
-    "perfect": "melted (molten)",
-    "notes": "Strong, class 3. Now regularized, but molten survives in adjectival uses."
+    "perfect": "melted (molten)"
   },
   {
     "present": "mix",
     "past": "mixed",
-    "perfect": "mixed",
-    "notes": "Weak, regular, with alternative (mostly archaic) spelling"
+    "perfect": "mixed"
   },
   {
     "present": "mow",
     "past": "mowed",
-    "perfect": "mowed (mown)",
-    "notes": "Strong, class 7. Now regularized in past tense and sometimes in past participle."
+    "perfect": "mowed (mown)"
   },
   {
-    "present": "must",
-    "notes": "Defective; originally a preterite. See English modal verbs"
+    "present": "must"
   },
   {
     "present": "need",
     "past": "needed",
-    "perfect": "needed",
-    "notes": "Weak, regular except in the use of need in place of needs in some contexts, by analogy with can, must, etc.[3] See English modal verbs"
+    "perfect": "needed"
   },
   {
-    "present": "ought",
-    "notes": "Defective; originally a preterite. See English modal verbs"
+    "present": "ought"
   },
   {
     "present": "pay",
     "past": "paid",
-    "perfect": "paid",
-    "notes": "Weak, irregular in spelling only. The spelling payed is used in the meaning of letting out a rope etc."
+    "perfect": "paid"
   },
   {
     "present": "pen",
     "past": "penned (pent)",
-    "perfect": "penned (pent)",
-    "notes": "Weak with devoiced ending, but usually regular; pent is sometimes used when the verb has the meaning \"to enclose\", and mainly adjectivally"
+    "perfect": "penned (pent)"
   },
   {
     "present": "plead",
     "past": "pled (pleaded)",
-    "perfect": "pled (pleaded)",
-    "notes": "French loanword, weak with vowel shortening and coalescence of dentals. In North America, this verb is usually irregular."
+    "perfect": "pled (pleaded)"
   },
   {
     "present": "prove",
     "past": "proved",
-    "perfect": "proved (proven)",
-    "notes": "French loanword, weak, with the alternative past participle proven by analogy with some strong verbs"
+    "perfect": "proved (proven)"
   },
   {
     "present": "put",
     "past": "put",
-    "perfect": "put",
-    "notes": "Weak with coalescence of dentals. Past participle form putten is characteristic for Yorkshire and Lancashire dialects."
+    "perfect": "put"
   },
   {
     "past": "queathed (quethed, quoth, quod)",
-    "perfect": "queathed (quethed, quoth, quethen)",
-    "notes": "Strong, class 5. Past tense quoth is literary or archaic; other parts of that verb are obsolete. Bequeath is normally regularized in -ed."
+    "perfect": "queathed (quethed, quoth, quethen)"
   },
   {
     "present": "quit",
     "past": "quit (quitted)",
-    "perfect": "quit (quitted)",
-    "notes": "French loanword, weak, with coalescence of dentals (or regular)"
+    "perfect": "quit (quitted)"
   },
   {
     "present": "reach",
     "past": "reached",
-    "perfect": "reached",
-    "notes": "Weak, now regular (archaic raught from original conjugation like teach)"
+    "perfect": "reached"
   },
   {
     "present": "read  (riːd)",
     "past": "read  (rɛd)",
-    "perfect": "read  (rɛd,  ,  *readen)",
-    "notes": "Weak with vowel shortening and coalescence of dentals"
+    "perfect": "read  (rɛd,  ,  *readen)"
   },
   {
     "past": "reaved (reft)",
-    "perfect": "reaved (reft)",
-    "notes": "Weak with vowel shortening and devoiced ending. The verb bereave is usually regular, but bereft survives as past participle, with distinct meanings."
+    "perfect": "reaved (reft)"
   },
   {
     "present": "rend",
     "past": "rent",
-    "perfect": "rent",
-    "notes": "Weak with coalescence of dentals"
+    "perfect": "rent"
   },
   {
     "present": "rid",
     "past": "rid (ridded)",
-    "perfect": "rid (ridden, ridded)",
-    "notes": "Weak with coalescence of dentals, or regular; ridden by analogy with strong verbs."
+    "perfect": "rid (ridden, ridded)"
   },
   {
     "present": "ride",
     "past": "rode",
-    "perfect": "ridden",
-    "notes": "Strong, class 1"
+    "perfect": "ridden"
   },
   {
     "present": "ring",
     "past": "rang",
-    "perfect": "rung",
-    "notes": "By analogy with strong, class 3. Regular when meaning \"surround\", etc."
+    "perfect": "rung"
   },
   {
     "present": "rise",
     "past": "rose",
-    "perfect": "risen",
-    "notes": "Strong, class 1"
+    "perfect": "risen"
   },
   {
     "present": "rive",
     "past": "rived (rove)",
-    "perfect": "rived (riven)",
-    "notes": "From Old Norse, originally followed pattern of strong class 1, later regularized.[4] Now rarely used."
+    "perfect": "rived (riven)"
   },
   {
     "present": "run",
     "past": "ran",
-    "perfect": "run",
-    "notes": "Strong, class 3"
+    "perfect": "run"
   },
   {
     "present": "saw",
     "past": "sawed",
-    "perfect": "sawed (sawn)",
-    "notes": "Weak; sawn by analogy with strong verbs[5]"
+    "perfect": "sawed (sawn)"
   },
   {
     "present": "say",
     "past": "said",
-    "perfect": "said",
-    "notes": "Weak, with vowel shortening in said /sɛd/ and in the third person present says /sɛz/"
+    "perfect": "said"
   },
   {
     "present": "see",
     "past": "saw",
-    "perfect": "seen",
-    "notes": "Strong, class 5"
+    "perfect": "seen"
   },
   {
     "present": "seek",
     "past": "sought",
-    "perfect": "sought",
-    "notes": "Weak with Rückumlaut and Germanic spirant law"
+    "perfect": "sought"
   },
   {
     "present": "seethe",
     "past": "seethed",
-    "perfect": "seethed",
-    "notes": "Strong, class 2. Now regular, but sodden survives in some adjectival uses."
+    "perfect": "seethed"
   },
   {
     "present": "sell",
     "past": "sold",
-    "perfect": "sold",
-    "notes": "Weak with Rückumlaut"
+    "perfect": "sold"
   },
   {
     "present": "send",
     "past": "sent",
-    "perfect": "sent",
-    "notes": "Weak with coalescence of dentals"
+    "perfect": "sent"
   },
   {
     "present": "set",
     "past": "set",
-    "perfect": "set",
-    "notes": "Weak with coalescence of dentals"
+    "perfect": "set"
   },
   {
     "present": "sew",
     "past": "sewed",
-    "perfect": "sewn (sewed)",
-    "notes": "Weak; sewn by analogy with strong verbs"
+    "perfect": "sewn (sewed)"
   },
   {
     "present": "shake",
     "past": "shook",
-    "perfect": "shaken",
-    "notes": "Strong, class 6"
+    "perfect": "shaken"
   },
   {
     "present": "shall",
-    "past": "should",
-    "notes": "Preterite-present; defective. See English modal verbs, and shall and will"
+    "past": "should"
   },
   {
     "present": "shape",
     "past": "shaped",
-    "perfect": "shaped",
-    "notes": "Originally strong, class 6, now regular, but with misshapen (and archaically shapen) still used adjectivally"
+    "perfect": "shaped"
   },
   {
     "present": "shave",
     "past": "shaved",
-    "perfect": "shaved (shaven)",
-    "notes": "Strong, class 6, now regular, but shaven sometimes used adjectivally"
+    "perfect": "shaved (shaven)"
   },
   {
     "present": "shear",
     "past": "sheared (shore)",
-    "perfect": "shorn (sheared)",
-    "notes": "Strong, class 4 (or regular)"
+    "perfect": "shorn (sheared)"
   },
   {
     "present": "shed",
     "past": "shed",
-    "perfect": "shed",
-    "notes": "Strong, class 7"
+    "perfect": "shed"
   },
   {
     "present": "shine",
     "past": "shone (shined)",
-    "perfect": "shone (shined)",
-    "notes": "Strong, class 1"
+    "perfect": "shone (shined)"
   },
   {
     "present": "shit",
     "past": "shit (shitted, shat)",
-    "perfect": "shit (shitted, shat)",
-    "notes": "Strong, class 1. The form shite is chiefly Scottish and Irish."
+    "perfect": "shit (shitted, shat)"
   },
   {
     "present": "shoe",
     "past": "shod (shoed)",
-    "perfect": "shodden (shod, shoed)",
-    "notes": "Weak with vowel shortening (or regular); shodden by analogy with strong verbs"
+    "perfect": "shodden (shod, shoed)"
   },
   {
     "present": "shoot",
     "past": "shot",
-    "perfect": "shot",
-    "notes": "Strong, class 2"
+    "perfect": "shot"
   },
   {
     "present": "show",
     "past": "showed",
-    "perfect": "shown (showed)",
-    "notes": "Weak, with participle shown perhaps by analogy with sown (from sow)"
+    "perfect": "shown (showed)"
   },
   {
     "present": "shrink",
     "past": "shrank (shrunk)",
-    "perfect": "shrunk (shrunken)",
-    "notes": "Strong, class 3; shrunken is mostly used adjectivally"
+    "perfect": "shrunk (shrunken)"
   },
   {
     "past": "shrived",
-    "perfect": "shrived",
-    "notes": "Strong, class 1"
+    "perfect": "shrived"
   },
   {
     "present": "shut",
     "past": "shut",
-    "perfect": "shut",
-    "notes": "Weak with coalescence of dentals"
+    "perfect": "shut"
   },
   {
     "present": "sing",
     "past": "sang",
-    "perfect": "sung",
-    "notes": "Strong, class 3"
+    "perfect": "sung"
   },
   {
     "present": "sink",
     "past": "sank (sunk)",
-    "perfect": "sunk (sunken)",
-    "notes": "Strong, class 3. The form sunken appears in some adjectival uses."
+    "perfect": "sunk (sunken)"
   },
   {
     "present": "sit",
     "past": "sat",
-    "perfect": "sat",
-    "notes": "Strong, class 5"
+    "perfect": "sat"
   },
   {
     "present": "slay",
     "past": "slew (slayed)",
-    "perfect": "slain (slayed)",
-    "notes": "Strong, class 6 (or regular)"
+    "perfect": "slain (slayed)"
   },
   {
     "present": "sleep",
     "past": "slept",
-    "perfect": "slept",
-    "notes": "Originally strong, class 7, now weak with vowel shortening"
+    "perfect": "slept"
   },
   {
     "present": "slide",
     "past": "slid",
-    "perfect": "slid (slidden)",
-    "notes": "Strong, class 1"
+    "perfect": "slid (slidden)"
   },
   {
     "present": "sling",
     "past": "slung",
-    "perfect": "slung",
-    "notes": "Strong, class 3"
+    "perfect": "slung"
   },
   {
     "present": "slink",
     "past": "slunk (slinked, slank)",
-    "perfect": "slunk (slinked, slank)",
-    "notes": "Strong, class 3"
+    "perfect": "slunk (slinked, slank)"
   },
   {
     "present": "slip",
     "past": "slipped",
-    "perfect": "slipped",
-    "notes": "Regular, with alternative (archaic) spelling"
+    "perfect": "slipped"
   },
   {
     "present": "slit",
     "past": "slit",
-    "perfect": "slit (slitten)",
-    "notes": "Strong, class 1"
+    "perfect": "slit (slitten)"
   },
   {
     "present": "smell",
     "past": "smelled (smelt)",
-    "perfect": "smelled (smelt)",
-    "notes": "Weak with devoiced ending (or regular)"
+    "perfect": "smelled (smelt)"
   },
   {
     "present": "smite",
     "past": "smote",
-    "perfect": "smitten (smitted)",
-    "notes": "Strong, class 1. Largely archaic; smitten is quite commonly used adjectivally."
+    "perfect": "smitten (smitted)"
   },
   {
     "present": "sneak",
     "past": "sneaked (snuck)",
-    "perfect": "sneaked (snuck)",
-    "notes": "Weak, alternative form snuck (chiefly American) by analogy with strong verbs"
+    "perfect": "sneaked (snuck)"
   },
   {
     "present": "sow",
     "past": "sowed",
-    "perfect": "sown (sowed)",
-    "notes": "Strong, class 7, with regularized past tense sowed"
+    "perfect": "sown (sowed)"
   },
   {
     "present": "speak",
     "past": "spoke",
-    "perfect": "spoken",
-    "notes": "Strong, class 5"
+    "perfect": "spoken"
   },
   {
     "present": "speed",
     "past": "sped (speeded)",
-    "perfect": "sped (speeded)",
-    "notes": "Weak with vowel shortening and coalescence of dentals (or regular)"
+    "perfect": "sped (speeded)"
   },
   {
     "present": "spell",
     "past": "spelled (spelt)",
-    "perfect": "spelled (spelt)",
-    "notes": "Weak with devoiced ending (or regular)"
+    "perfect": "spelled (spelt)"
   },
   {
     "present": "spend",
     "past": "spent",
-    "perfect": "spent",
-    "notes": "Weak with coalescence of dentals"
+    "perfect": "spent"
   },
   {
     "present": "spill",
     "past": "spilled (spilt)",
-    "perfect": "spilled (spilt)",
-    "notes": "Weak with devoiced ending (or regular)"
+    "perfect": "spilled (spilt)"
   },
   {
     "present": "spin",
     "past": "spun",
-    "perfect": "spun",
-    "notes": "Strong, class 3"
+    "perfect": "spun"
   },
   {
     "present": "spit",
     "past": "spat (spit)",
-    "perfect": "spat (spit)",
-    "notes": "Weak with coalescence of dentals (for past form spit, which is common in America), or spat by analogy with strong verbs. (In the meaning of roast on a spit, the verb is regular.)"
+    "perfect": "spat (spit)"
   },
   {
     "present": "split",
     "past": "split",
-    "perfect": "split",
-    "notes": "Weak with coalescence of dentals"
+    "perfect": "split"
   },
   {
     "present": "spoil",
     "past": "spoiled (spoilt)",
-    "perfect": "spoiled (spoilt)",
-    "notes": "Weak with devoiced ending (or regular)"
+    "perfect": "spoiled (spoilt)"
   },
   {
     "present": "spread",
     "past": "spread",
-    "perfect": "spread",
-    "notes": "Weak with coalescence of dentals"
+    "perfect": "spread"
   },
   {
     "present": "sprenge",
@@ -1087,86 +907,72 @@
   {
     "present": "spring",
     "past": "sprang (sprung)",
-    "perfect": "sprung",
-    "notes": "Strong, class 3"
+    "perfect": "sprung"
   },
   {
     "present": "stand",
     "past": "stood",
-    "perfect": "stood",
-    "notes": "Strong, class 6"
+    "perfect": "stood"
   },
   {
     "present": "starve",
     "past": "starved",
-    "perfect": "starved",
-    "notes": "Strong, class 3"
+    "perfect": "starved"
   },
   {
     "present": "stave",
     "past": "stove (staved)",
-    "perfect": "stove (staved)",
-    "notes": "Originally weak; irregular forms developed by analogy with strong verbs.[6]"
+    "perfect": "stove (staved)"
   },
   {
     "present": "stay",
     "past": "stayed",
-    "perfect": "stayed",
-    "notes": "Regular, with alternative spelling staid (now limited to certain adjectival uses)"
+    "perfect": "stayed"
   },
   {
     "present": "steal",
     "past": "stole",
-    "perfect": "stolen",
-    "notes": "Strong, class 4"
+    "perfect": "stolen"
   },
   {
     "present": "stick",
     "past": "stuck",
-    "perfect": "stuck",
-    "notes": "Originally weak, irregular forms by analogy with strong verbs"
+    "perfect": "stuck"
   },
   {
     "present": "sting",
     "past": "stung",
-    "perfect": "stung",
-    "notes": "Strong, class 3"
+    "perfect": "stung"
   },
   {
     "present": "stink",
     "past": "stank (stunk)",
-    "perfect": "stunk",
-    "notes": "Strong, class 3"
+    "perfect": "stunk"
   },
   {
     "present": "stretch",
     "past": "stretched",
-    "perfect": "stretched",
-    "notes": "Weak, now regular; obsolete past form straught as with teach–taught"
+    "perfect": "stretched"
   },
   {
     "present": "strew",
     "past": "strewed",
-    "perfect": "strewn (strewed)",
-    "notes": "Originally weak, irregular forms by analogy with strong verbs"
+    "perfect": "strewn (strewed)"
   },
   {
     "present": "stride",
     "past": "strode",
-    "perfect": "stridden",
-    "notes": "Strong, class 1"
+    "perfect": "stridden"
   },
   {
     "present": "strike",
     "past": "struck",
-    "perfect": "struck (stricken)",
-    "notes": "Strong, class 1. The form stricken is limited to certain adjectival and specialist uses."
+    "perfect": "struck (stricken)"
   },
   {
     "present": "string",
     "past": "strung",
-    "perfect": "strung",
-    "notes": "Originally weak, irregular forms developed by analogy with strong verbs"
+    "perfect": "strung"
   },
   {
     "present": "strip",
@@ -1176,72 +982,60 @@
   {
     "present": "strive",
     "past": "strove (strived)",
-    "perfect": "striven (strived)",
-    "notes": "Strong, class 1 (or regularized)"
+    "perfect": "striven (strived)"
   },
   {
     "present": "swear",
     "past": "swore",
-    "perfect": "sworn",
-    "notes": "Strong, class 6"
+    "perfect": "sworn"
   },
   {
     "present": "sweat",
     "past": "sweated (sweat)",
-    "perfect": "sweated (sweat)",
-    "notes": "Weak, usually regular, possible past form sweat with coalescence of dentals"
+    "perfect": "sweated (sweat)"
   },
   {
     "present": "sweep",
     "past": "swept",
-    "perfect": "swept",
-    "notes": "Weak with vowel shortening"
+    "perfect": "swept"
   },
   {
     "present": "swell",
     "past": "swelled",
-    "perfect": "swollen (swelled)",
-    "notes": "Strong, class 3, with regularized forms"
+    "perfect": "swollen (swelled)"
   },
   {
     "past": "swelted",
-    "perfect": "swelted",
-    "notes": "Strong, class 3 (or regularized). Archaic"
+    "perfect": "swelted"
   },
   {
     "present": "swim",
     "past": "swam",
-    "perfect": "swum",
-    "notes": "Strong, class 3"
+    "perfect": "swum"
   },
   {
     "present": "swing",
     "past": "swang (swung)",
-    "perfect": "swung",
-    "notes": "Strong, class 3"
+    "perfect": "swung"
   },
   {
     "past": "swank (swonk, swinked)",
-    "perfect": "swunk (swunken, swonken, swinked)",
-    "notes": "Strong, class 3"
+    "perfect": "swunk (swunken, swonken, swinked)"
   },
   {
     "present": "take",
     "past": "took",
-    "perfect": "taken",
-    "notes": "Strong, class 6"
+    "perfect": "taken"
   },
   {
     "present": "teach",
     "past": "taught",
-    "perfect": "taught",
-    "notes": "Weak with Rückumlaut and Germanic spirant law"
+    "perfect": "taught"
   },
   {
     "present": "tear",
     "past": "tore",
-    "perfect": "torn",
-    "notes": "Strong, class 4"
+    "perfect": "torn"
   },
   {
     "past": "teed (tow)",
@@ -1250,38 +1044,32 @@
   {
     "present": "tell",
     "past": "told",
-    "perfect": "told",
-    "notes": "Weak with Rückumlaut; related to tale"
+    "perfect": "told"
   },
   {
     "present": "think",
     "past": "thought",
-    "perfect": "thought",
-    "notes": "Weak with Rückumlaut and Germanic spirant law"
+    "perfect": "thought"
   },
   {
     "present": "thrive",
     "past": "throve (thrived)",
-    "perfect": "thriven (thrived)",
-    "notes": "Of Old Norse origin; followed strong class 1 (now archaic) or weak (regular) pattern[7]"
+    "perfect": "thriven (thrived)"
   },
   {
     "present": "throw",
     "past": "threw",
-    "perfect": "thrown",
-    "notes": "Strong, class 7"
+    "perfect": "thrown"
   },
   {
     "present": "thrust",
     "past": "thrust",
-    "perfect": "thrust",
-    "notes": "Weak, with coalescence of dentals (or regular)"
+    "perfect": "thrust"
   },
   {
     "present": "tread",
     "past": "trod",
-    "perfect": "trodden (trod)",
-    "notes": "Strong, class 5 (or regularized)"
+    "perfect": "trodden (trod)"
   },
   {
     "present": "vex",
@@ -1291,102 +1079,85 @@
   {
     "present": "wake",
     "past": "woke",
-    "perfect": "woken",
-    "notes": "Strong, class 6"
+    "perfect": "woken"
   },
   {
     "present": "wax",
     "past": "waxed",
-    "perfect": "waxed",
-    "notes": "Strong, class 7, now regularized"
+    "perfect": "waxed"
   },
   {
     "present": "wear",
     "past": "weared (wore)",
-    "perfect": "weared (worn)",
-    "notes": "Originally weak, fell into a strong pattern by analogy with bear"
+    "perfect": "weared (worn)"
   },
   {
     "present": "weave",
     "past": "wove",
-    "perfect": "woven",
-    "notes": "Strong, class 7"
+    "perfect": "woven"
   },
   {
     "present": "wed",
     "past": "wed (wedded)",
-    "perfect": "wed (wedded)",
-    "notes": "Weak with coalescence of dentals (or regular)"
+    "perfect": "wed (wedded)"
   },
   {
     "present": "weep",
     "past": "wept (weeped)",
-    "perfect": "wept (weeped)",
-    "notes": "Originally strong, class 7, now weak with vowel shortening"
+    "perfect": "wept (weeped)"
   },
   {
     "present": "wend",
     "past": "wended",
-    "perfect": "wended",
-    "notes": "Weak, once with coalescence of dentals and devoiced ending, but now regular; went is used as the past of go"
+    "perfect": "wended"
   },
   {
     "present": "wet",
     "past": "wet (wetted)",
-    "perfect": "wet (wetted)",
-    "notes": "Weak with coalescence of dentals (or regular)"
+    "perfect": "wet (wetted)"
   },
   {
     "present": "will",
-    "past": "would",
-    "notes": "Preterite-present, defective. See English modal verbs, and shall and will. (In non-auxiliary uses the verb is regular.)"
+    "past": "would"
   },
   {
     "present": "win",
     "past": "won",
-    "perfect": "won",
-    "notes": "Strong, class 3"
+    "perfect": "won"
   },
   {
     "present": "wind",
     "past": "wound",
-    "perfect": "wound",
-    "notes": "Strong, class 3. (The identically spelt verb wind /wɪnd/, with meanings connected with air flow and breathlessness, is regular.)"
+    "perfect": "wound"
   },
   {
     "present": "work",
     "past": "worked",
-    "perfect": "worked",
-    "notes": "Weak, now regular, formerly with Rückumlaut and metathesis of r and o"
+    "perfect": "worked"
   },
   {
     "past": "worth (worthed)",
-    "perfect": "worth (worthed, worthen)",
-    "notes": "Strong, class 3, or regularized"
+    "perfect": "worth (worthed, worthen)"
   },
   {
     "present": "wreak",
     "past": "wreaked",
-    "perfect": "wreaked",
-    "notes": "Weak, usually regular; wrought (which is in fact from work) has come sometimes to be identified with this verb (perhaps by analogy with seek–sought). Other forms by analogy with strong verbs."
+    "perfect": "wreaked"
   },
   {
     "present": "wring",
     "past": "wrang (wrung)",
-    "perfect": "wrung",
-    "notes": "Strong, class 3"
+    "perfect": "wrung"
   },
   {
     "present": "write",
     "past": "wrote",
-    "perfect": "written",
-    "notes": "Strong, class 1"
+    "perfect": "written"
   },
   {
     "present": "writhe",
     "past": "writhed",
-    "perfect": "writhed",
-    "notes": "Strong, class 1, now regularized"
+    "perfect": "writhed"
   },
   {
     "present": "zinc",
