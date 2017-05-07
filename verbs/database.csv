@@ -1,109 +1,109 @@
 ache (ake),ached (oke),ached (aken)
 "be (am, is, are)",was (were),been
-bear,bore,borne (born)
+bear,bore (*bare),borne (born)
 beat,beat,beaten (beat)
 become,became,become
-beget,begot,begotten (begot)
+beget,begot (*begat),begotten (begot)
 begin,began,begun
-bend,bent,bent
-beseech,beseeched,beseeched
+bend,bent (*bended),bent (*bended)
+beseech,beseeched (*besought),beseeched (*besought)
 bet,bet (betted),bet (betted)
 beware,,
 bid,bid,bid
-bid,bid,bid
+bid,bid (*bade),bid (*bidden)
 bide,bided (bode),bided (bidden)
 bind,bound,bound
 bite,bit,bitten
 bleed,bled,bled
-bless,blessed,blessed
+bless,blessed (*blest),blessed (*blest)
 blow,blew,blown
 break,broke,broken
 breed,bred,bred
 bring,brought,brought
 build,built,built
 burn,burned (burnt),burned (burnt)
-burst,burst,burst
+burst,burst (*brast),burst (*bursten)
 bust,busted (bust),busted (bust)
-buy,bought,bought
+buy,bought,bought (*boughten)
 can,could,
 cast,cast,cast
 catch,caught,caught
-chide,chided (chid),"chided (chid, chidden)"
+chide,"chided (chid, *chode)","chided (chid, chidden)"
 choose,chose,chosen
 clad,clad,clad
-clap,clapped,clapped
-cleave,"cleft (clove, cleaved)","cleft (cloven, cleaved)"
-,cleped (clepen),cleped
+clap,clapped (*clapt),clapped (*clapt)
+cleave,"cleft (clove, cleaved, *clave)","cleft (cloven, cleaved)"
+*clepe,"cleped (clepen, *clept)","cleped (*clept, *clepen, *yclept)"
 cling,clung,clung
 clothe,clad (clothed),clad (clothed)
 come,came,come (comen)
 cost,cost (costed),cost (costed)
-creep,crept (creeped),crept (creeped)
-crow,crowed (crew),crowed
+creep,"crept (creeped, *crope)","crept (creeped, *cropen)"
+crow,crowed (crew),crowed (*crown)
 cut,cut,cut
-"dare (dares, dare)",dared,dared
+"dare (dares, dare)",dared (*durst),dared
 deal,dealt,dealt
-dig,dug,dug
+dig,dug (*digged),dug (*digged)
 dive,dived (dove),dived (dove)
 do (does),did,done
 dow,dowed (dought),dowed (dought)
-drag,dragged,dragged
+drag,dragged (*drug),dragged (*drug)
 draw,drew,drawn
-dream,dreamed (dreamt),dreamed (dreamt)
-dress,dressed,dressed
-drink,drank,drunk
-drive,drove,driven
+dream,"dreamed (dreamt, *drempt)","dreamed (dreamt, *drempt)"
+dress,dressed (*drest),dressed (*drest)
+drink,"drank (*drunk, *drinked)","drunk (*drank, *drinked, *drunken)"
+drive,drove (*drave),driven
 dwell,dwelt (dwelled),dwelt (dwelled)
 earn,earned (earnt),earned (earnt)
-eat,ate,eaten
-fall,fell,fallen
+eat,ate (*et),eaten
+fall,fell (*felled),fallen (*felled)
 feed,fed,fed
 feel,felt,felt
-fight,fought,fought
-find,found,found
+fight,fought,fought (*foughten)
+find,found (*fand),found (*founden)
 fit,fitted (fit),fitted (fit)
 flee,fled,fled
 fling,flung,flung
 fly,flew,flown
 forbid,"forbid (forbade, forbad)",forbidden
-forget,forgot,forgotten
-,forlore,forlorn
+forget,forgot (*forgat),forgotten (*forgot)
+*forlese,forlore,forlorn
 forsake,forsook,forsaken
 freeze,froze,frozen
-get,got,got (gotten)
+get,got (*gat),got (gotten)
 gild,gilded (gilt),gilded (gilt)
-gird,girded,girded
+gird,girded (*girt),girded (*girt)
 give,gave,given
 go,went,gone
-,grove (graved),graven (graved)
-grind,ground (grinded),ground (grinded)
-grow,grew,grown
+*grave,grove (graved),graven (graved)
+grind,ground (grinded),"ground (grinded, *grounden)"
+grow,grew (*growed),grown (*growed)
 hang,hung (hanged),hung (hanged)
 have (has),had,had
 hear,heard,heard
-heave,heaved,heaved
-help,helped,helped
-hew,hewed,hewed (hewn)
-hide,hid,hidden
+heave,heaved (*hove),"heaved (*hove, *hoven)"
+help,helped (*holp),helped (*holpen)
+hew,hewed (*hew),hewed (hewn)
+hide,hid,hidden (*hid)
 hit,hit,hit
 hoist,hoisted (hoist),hoisted (hoist)
-hold,held,held
+hold,held,held (*holden)
 hurt,hurt,hurt
 keep,kept,kept
 ken,kenned (kent),kenned (kent)
 kneel,knelt (kneeled),knelt (kneeled)
 knit,knit (knitted),knit (knitted)
-know,knew,known
+know,knew,known (*knowen)
 lade,laded,laden (laded)
-laugh,laughed,laughed
-lay,laid,laid
+laugh,"laughed (*laught, *laugh'd, *low)","laughed (*laught, *laugh'd, *laughen)"
+lay,laid (*layed),laid (*layed)
 lead,led,led
 lean,leaned (leant),leaned (leant)
-leap,leaped (leapt),leaped (leapt)
+leap,"leaped (leapt, *lept, *lope)","leaped (leapt, *lopen)"
 learn,learned (learnt),learned (learnt)
-leave,left,left
+leave,left,left (*laft)
 lend,lent,lent
-let,let,let
+let,let (*leet),let (*letten)
 lie,lay,lain
 light,lit (lighted),lit (lighted)
 lose,lost,lost
@@ -111,26 +111,26 @@ make,made,made
 may,might,
 mean,meant,meant
 meet,met,met
-melt,melted,melted (molten)
-mix,mixed,mixed
+melt,melted (*molt),melted (molten)
+mix,mixed (*mixt),mixed (*mixt)
 mow,mowed,mowed (mown)
 must,,
 "need (needs, need)",needed,needed
 ought,,
-pay,paid,paid
+pay,paid (*payed),paid (*payed)
 pen,penned (pent),penned (pent)
 plead,pled (pleaded),pled (pleaded)
 prove,proved,proved (proven)
-put,put,put
-,"queathed (quethed, quoth, quod)","queathed (quethed, quoth, quethen)"
+put,put,put (*putten)
+*queath (*quethe),"queathed (quethed, quoth, quod)","queathed (quethed, quoth, quethen)"
 quit,quit (quitted),quit (quitted)
-reach,reached,reached
-read,read,read
-,reaved (reft),reaved (reft)
+reach,"reached (*raught, *rought, *retcht)","reached (*raught, *rought, *retcht)"
+read,read,read (*readen)
+*reave,reaved (reft),reaved (reft)
 rend,rent,rent
 rid,rid (ridded),"rid (ridden, ridded)"
-ride,rode,ridden
-ring,rang,rung
+ride,rode (*rid),ridden (*rid)
+ring,rang (*rung),rung
 rise,rose,risen
 rive,rived (rove),rived (riven)
 run,ran,run
@@ -138,100 +138,100 @@ saw,sawed,sawed (sawn)
 say (says),said,said
 see,saw,seen
 seek,sought,sought
-seethe,seethed,seethed
+seethe,seethed (*sod),seethed (*sodden)
 sell,sold,sold
 send,sent,sent
-set,set,set
-sew,sewed,sewn (sewed)
+set,set,set (*setten)
+sew,sewed,"sewn (sewed, *sewen)"
 shake,shook,shaken
 shall,should,
-shape,shaped,shaped
-shave,shaved,shaved (shaven)
+shape,shaped (*shope),shaped (*shapen)
+shave,shaved (*shove),shaved (shaven)
 shear,sheared (shore),shorn (sheared)
 shed,shed,shed
 shine,shone (shined),shone (shined)
-shit,"shit (shitted, shat)","shit (shitted, shat)"
+shit,"shit (shitted, shat)","shit (shitted, shat, *shitten)"
 shoe,shod (shoed),"shodden (shod, shoed)"
-shoot,shot,shot
-show,showed,shown (showed)
+shoot,shot,shot (*shotten)
+show,showed (*shew),"shown (showed, *shewed)"
 shrink,shrank (shrunk),shrunk (shrunken)
-,shrived,shrived
+*shrive,shrived (*shrove),shrived (*shriven)
 shut,shut,shut
-sing,sang,sung
+sing,sang,sung (*sungen)
 sink,sank (sunk),sunk (sunken)
-sit,sat,sat
+sit,sat (*sate),sat (*sitten)
 slay,slew (slayed),slain (slayed)
 sleep,slept,slept
 slide,slid,slid (slidden)
-sling,slung,slung
+sling,slung (*slang),slung
 slink,"slunk (slinked, slank)","slunk (slinked, slank)"
-slip,slipped,slipped
+slip,slipped (*slipt),slipped (*slipt)
 slit,slit,slit (slitten)
 smell,smelled (smelt),smelled (smelt)
-smite,smote,smitten (smitted)
-sneak,sneaked (snuck),sneaked (snuck)
-sow,sowed,sown (sowed)
-speak,spoke,spoken
+smite,smote (*smit),smitten (smitted)
+sneak,sneaked (snuck),"sneaked (snuck, *snucked)"
+sow,sowed (*sew),sown (sowed)
+speak,spoke (*spake),spoken (*spoke)
 speed,sped (speeded),sped (speeded)
 spell,spelled (spelt),spelled (spelt)
 spend,spent,spent
 spill,spilled (spilt),spilled (spilt)
-spin,spun,spun
+spin,spun (*span),spun
 spit,spat (spit),spat (spit)
 split,split,split
 spoil,spoiled (spoilt),spoiled (spoilt)
-spread,spread,spread
+spread,spread (*spreaded),spread (*spreaded)
 sprenge,sprent,sprent
-spring,sprang (sprung),sprung
-stand,stood,stood
-starve,starved,starved
-stave,stove (staved),stove (staved)
-stay,stayed,stayed
+spring,sprang (sprung),sprung (*sprang)
+stand,stood,stood (*standen)
+starve,"starved (*starf, *storve)",starved (*storven)
+stave,stove (staved),"stove (staved, *stoven)"
+stay,stayed (*staid),stayed (*staid)
 steal,stole,stolen
-stick,stuck,stuck
-sting,stung,stung
+stick,stuck (*sticked),stuck (*sticked)
+sting,stung (*stang),stung
 stink,stank (stunk),stunk
-stretch,stretched,stretched
+stretch,"stretched (*straught, *straight)","stretched (*straught, *straight)"
 strew,strewed,strewn (strewed)
-stride,strode,stridden
+stride,strode (*strided),"stridden (*strode, *strid, *stridded)"
 strike,struck,struck (stricken)
-string,strung,strung
+string,strung (*stringed),strung (*stringed)
 strip,stripped (stript),stripped (stript)
 strive,strove (strived),striven (strived)
 swear,swore,sworn
 sweat,sweated (sweat),sweated (sweat)
-sweep,swept,swept
-swell,swelled,swollen (swelled)
-,swelted,swelted
-swim,swam,swum
-swing,swang (swung),swung
-,"swank (swonk, swinked)","swunk (swunken, swonken, swinked)"
-take,took,taken
-teach,taught,taught
+sweep,swept (*sweeped),swept (*sweeped)
+swell,"swelled (*swole, *swelt)",swollen (swelled)
+*swelt,swelted (*swolt),swelted (*swolten)
+swim,swam (*swum),swum
+swing,swang (swung),swung (*swungen)
+*swink,"swank (swonk, *swinkt, swinked)","swunk (swunken, swonken, *swinkt, swinked)"
+take,took (*taked),taken
+teach,taught (*teached),taught (*teached)
 tear,tore,torn
-,teed (tow),teed (town)
-tell,told,told
-think,thought,thought
-thrive,throve (thrived),thriven (thrived)
-throw,threw,thrown
-thrust,thrust,thrust
-tread,trod,trodden (trod)
-vex,vexed,vexed
-wake,woke,woken
-wax,waxed,waxed
+*tee,teed (tow),teed (town)
+tell,told (*telled),told (*telled)
+think,thought (*thinked),thought (*thinked)
+thrive,"throve (thrived, *thrave)",thriven (thrived)
+throw,threw (*throwed),thrown (*throwed)
+thrust,thrust (*thrusted),thrust (*thrusted)
+tread,"trod (*tread, *treaded, *trodden)","trodden (trod, *tread, *treaded)"
+vex,vexed (*vext),vexed (*vext)
+wake,woke (*waked),woken (*waked)
+wax,waxed (*wex),waxed (*waxen)
 wear,weared (wore),weared (worn)
 weave,wove,woven
 wed,wed (wedded),wed (wedded)
 weep,wept (weeped),wept (weeped)
-wend,wended,wended
+wend,wended (*went),wended (*went)
 wet,wet (wetted),wet (wetted)
 will,would,
 win,won,won
 wind,wound,wound
-work,worked,worked
-,worth (worthed),"worth (worthed, worthen)"
-wreak,wreaked,wreaked
-wring,wrang (wrung),wrung
-write,wrote,written
-writhe,writhed,writhed
+work,worked (*wrought),worked (*wrought)
+*worth,worth (worthed),"worth (worthed, worthen)"
+wreak,"wreaked (*wrought, *wrack, *wroke)","wreaked (*wrought, *wreaken, *wroken)"
+wring,"wrang (wrung, *wringed)",wrung (*wringed)
+write,wrote (*writ),written (*writ)
+writhe,writhed (*wrothe),writhed (*writhen)
 zinc,"zinced (zinked, zincked)","zinced (zinked, zincked)"

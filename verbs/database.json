@@ -11,7 +11,7 @@
   },
   {
     "present": "bear",
-    "past": "bore",
+    "past": "bore (*bare)",
     "perfect": "borne (born)"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "present": "beget",
-    "past": "begot",
+    "past": "begot (*begat)",
     "perfect": "begotten (begot)"
   },
   {
@@ -36,13 +36,13 @@
   },
   {
     "present": "bend",
-    "past": "bent",
-    "perfect": "bent"
+    "past": "bent (*bended)",
+    "perfect": "bent (*bended)"
   },
   {
     "present": "beseech",
-    "past": "beseeched",
-    "perfect": "beseeched"
+    "past": "beseeched (*besought)",
+    "perfect": "beseeched (*besought)"
   },
   {
     "present": "bet",
@@ -59,8 +59,8 @@
   },
   {
     "present": "bid",
-    "past": "bid",
-    "perfect": "bid"
+    "past": "bid (*bade)",
+    "perfect": "bid (*bidden)"
   },
   {
     "present": "bide",
@@ -84,8 +84,8 @@
   },
   {
     "present": "bless",
-    "past": "blessed",
-    "perfect": "blessed"
+    "past": "blessed (*blest)",
+    "perfect": "blessed (*blest)"
   },
   {
     "present": "blow",
@@ -119,8 +119,8 @@
   },
   {
     "present": "burst",
-    "past": "burst",
-    "perfect": "burst"
+    "past": "burst (*brast)",
+    "perfect": "burst (*bursten)"
   },
   {
     "present": "bust",
@@ -130,7 +130,7 @@
   {
     "present": "buy",
     "past": "bought",
-    "perfect": "bought"
+    "perfect": "bought (*boughten)"
   },
   {
     "present": "can",
@@ -148,7 +148,7 @@
   },
   {
     "present": "chide",
-    "past": "chided (chid)",
+    "past": "chided (chid, *chode)",
     "perfect": "chided (chid, chidden)"
   },
   {
@@ -163,17 +163,18 @@
   },
   {
     "present": "clap",
-    "past": "clapped",
-    "perfect": "clapped"
+    "past": "clapped (*clapt)",
+    "perfect": "clapped (*clapt)"
   },
   {
     "present": "cleave",
-    "past": "cleft (clove, cleaved)",
+    "past": "cleft (clove, cleaved, *clave)",
     "perfect": "cleft (cloven, cleaved)"
   },
   {
-    "past": "cleped (clepen)",
-    "perfect": "cleped"
+    "present": "*clepe",
+    "past": "cleped (clepen, *clept)",
+    "perfect": "cleped (*clept, *clepen, *yclept)"
   },
   {
     "present": "cling",
@@ -197,13 +198,13 @@
   },
   {
     "present": "creep",
-    "past": "crept (creeped)",
-    "perfect": "crept (creeped)"
+    "past": "crept (creeped, *crope)",
+    "perfect": "crept (creeped, *cropen)"
   },
   {
     "present": "crow",
     "past": "crowed (crew)",
-    "perfect": "crowed"
+    "perfect": "crowed (*crown)"
   },
   {
     "present": "cut",
@@ -212,7 +213,7 @@
   },
   {
     "present": "dare (dares, dare)",
-    "past": "dared",
+    "past": "dared (*durst)",
     "perfect": "dared"
   },
   {
@@ -222,8 +223,8 @@
   },
   {
     "present": "dig",
-    "past": "dug",
-    "perfect": "dug"
+    "past": "dug (*digged)",
+    "perfect": "dug (*digged)"
   },
   {
     "present": "dive",
@@ -242,8 +243,8 @@
   },
   {
     "present": "drag",
-    "past": "dragged",
-    "perfect": "dragged"
+    "past": "dragged (*drug)",
+    "perfect": "dragged (*drug)"
   },
   {
     "present": "draw",
@@ -252,22 +253,22 @@
   },
   {
     "present": "dream",
-    "past": "dreamed (dreamt)",
-    "perfect": "dreamed (dreamt)"
+    "past": "dreamed (dreamt, *drempt)",
+    "perfect": "dreamed (dreamt, *drempt)"
   },
   {
     "present": "dress",
-    "past": "dressed",
-    "perfect": "dressed"
+    "past": "dressed (*drest)",
+    "perfect": "dressed (*drest)"
   },
   {
     "present": "drink",
-    "past": "drank",
-    "perfect": "drunk"
+    "past": "drank (*drunk, *drinked)",
+    "perfect": "drunk (*drank, *drinked, *drunken)"
   },
   {
     "present": "drive",
-    "past": "drove",
+    "past": "drove (*drave)",
     "perfect": "driven"
   },
   {
@@ -282,13 +283,13 @@
   },
   {
     "present": "eat",
-    "past": "ate",
+    "past": "ate (*et)",
     "perfect": "eaten"
   },
   {
     "present": "fall",
-    "past": "fell",
-    "perfect": "fallen"
+    "past": "fell (*felled)",
+    "perfect": "fallen (*felled)"
   },
   {
     "present": "feed",
@@ -303,12 +304,12 @@
   {
     "present": "fight",
     "past": "fought",
-    "perfect": "fought"
+    "perfect": "fought (*foughten)"
   },
   {
     "present": "find",
-    "past": "found",
-    "perfect": "found"
+    "past": "found (*fand)",
+    "perfect": "found (*founden)"
   },
   {
     "present": "fit",
@@ -337,10 +338,11 @@
   },
   {
     "present": "forget",
-    "past": "forgot",
-    "perfect": "forgotten"
+    "past": "forgot (*forgat)",
+    "perfect": "forgotten (*forgot)"
   },
   {
+    "present": "*forlese",
     "past": "forlore",
     "perfect": "forlorn"
   },
@@ -356,7 +358,7 @@
   },
   {
     "present": "get",
-    "past": "got",
+    "past": "got (*gat)",
     "perfect": "got (gotten)"
   },
   {
@@ -366,8 +368,8 @@
   },
   {
     "present": "gird",
-    "past": "girded",
-    "perfect": "girded"
+    "past": "girded (*girt)",
+    "perfect": "girded (*girt)"
   },
   {
     "present": "give",
@@ -380,18 +382,19 @@
     "perfect": "gone"
   },
   {
+    "present": "*grave",
     "past": "grove (graved)",
     "perfect": "graven (graved)"
   },
   {
     "present": "grind",
     "past": "ground (grinded)",
-    "perfect": "ground (grinded)"
+    "perfect": "ground (grinded, *grounden)"
   },
   {
     "present": "grow",
-    "past": "grew",
-    "perfect": "grown"
+    "past": "grew (*growed)",
+    "perfect": "grown (*growed)"
   },
   {
     "present": "hang",
@@ -410,23 +413,23 @@
   },
   {
     "present": "heave",
-    "past": "heaved",
-    "perfect": "heaved"
+    "past": "heaved (*hove)",
+    "perfect": "heaved (*hove, *hoven)"
   },
   {
     "present": "help",
-    "past": "helped",
-    "perfect": "helped"
+    "past": "helped (*holp)",
+    "perfect": "helped (*holpen)"
   },
   {
     "present": "hew",
-    "past": "hewed",
+    "past": "hewed (*hew)",
     "perfect": "hewed (hewn)"
   },
   {
     "present": "hide",
     "past": "hid",
-    "perfect": "hidden"
+    "perfect": "hidden (*hid)"
   },
   {
     "present": "hit",
@@ -441,7 +444,7 @@
   {
     "present": "hold",
     "past": "held",
-    "perfect": "held"
+    "perfect": "held (*holden)"
   },
   {
     "present": "hurt",
@@ -471,7 +474,7 @@
   {
     "present": "know",
     "past": "knew",
-    "perfect": "known"
+    "perfect": "known (*knowen)"
   },
   {
     "present": "lade",
@@ -480,13 +483,13 @@
   },
   {
     "present": "laugh",
-    "past": "laughed",
-    "perfect": "laughed"
+    "past": "laughed (*laught, *laugh'd, *low)",
+    "perfect": "laughed (*laught, *laugh'd, *laughen)"
   },
   {
     "present": "lay",
-    "past": "laid",
-    "perfect": "laid"
+    "past": "laid (*layed)",
+    "perfect": "laid (*layed)"
   },
   {
     "present": "lead",
@@ -500,8 +503,8 @@
   },
   {
     "present": "leap",
-    "past": "leaped (leapt)",
-    "perfect": "leaped (leapt)"
+    "past": "leaped (leapt, *lept, *lope)",
+    "perfect": "leaped (leapt, *lopen)"
   },
   {
     "present": "learn",
@@ -511,7 +514,7 @@
   {
     "present": "leave",
     "past": "left",
-    "perfect": "left"
+    "perfect": "left (*laft)"
   },
   {
     "present": "lend",
@@ -520,8 +523,8 @@
   },
   {
     "present": "let",
-    "past": "let",
-    "perfect": "let"
+    "past": "let (*leet)",
+    "perfect": "let (*letten)"
   },
   {
     "present": "lie",
@@ -559,13 +562,13 @@
   },
   {
     "present": "melt",
-    "past": "melted",
+    "past": "melted (*molt)",
     "perfect": "melted (molten)"
   },
   {
     "present": "mix",
-    "past": "mixed",
-    "perfect": "mixed"
+    "past": "mixed (*mixt)",
+    "perfect": "mixed (*mixt)"
   },
   {
     "present": "mow",
@@ -585,8 +588,8 @@
   },
   {
     "present": "pay",
-    "past": "paid",
-    "perfect": "paid"
+    "past": "paid (*payed)",
+    "perfect": "paid (*payed)"
   },
   {
     "present": "pen",
@@ -606,9 +609,10 @@
   {
     "present": "put",
     "past": "put",
-    "perfect": "put"
+    "perfect": "put (*putten)"
   },
   {
+    "present": "*queath (*quethe)",
     "past": "queathed (quethed, quoth, quod)",
     "perfect": "queathed (quethed, quoth, quethen)"
   },
@@ -619,15 +623,16 @@
   },
   {
     "present": "reach",
-    "past": "reached",
-    "perfect": "reached"
+    "past": "reached (*raught, *rought, *retcht)",
+    "perfect": "reached (*raught, *rought, *retcht)"
   },
   {
     "present": "read",
     "past": "read",
-    "perfect": "read"
+    "perfect": "read (*readen)"
   },
   {
+    "present": "*reave",
     "past": "reaved (reft)",
     "perfect": "reaved (reft)"
   },
@@ -643,12 +648,12 @@
   },
   {
     "present": "ride",
-    "past": "rode",
-    "perfect": "ridden"
+    "past": "rode (*rid)",
+    "perfect": "ridden (*rid)"
   },
   {
     "present": "ring",
-    "past": "rang",
+    "past": "rang (*rung)",
     "perfect": "rung"
   },
   {
@@ -688,8 +693,8 @@
   },
   {
     "present": "seethe",
-    "past": "seethed",
-    "perfect": "seethed"
+    "past": "seethed (*sod)",
+    "perfect": "seethed (*sodden)"
   },
   {
     "present": "sell",
@@ -704,12 +709,12 @@
   {
     "present": "set",
     "past": "set",
-    "perfect": "set"
+    "perfect": "set (*setten)"
   },
   {
     "present": "sew",
     "past": "sewed",
-    "perfect": "sewn (sewed)"
+    "perfect": "sewn (sewed, *sewen)"
   },
   {
     "present": "shake",
@@ -722,12 +727,12 @@
   },
   {
     "present": "shape",
-    "past": "shaped",
-    "perfect": "shaped"
+    "past": "shaped (*shope)",
+    "perfect": "shaped (*shapen)"
   },
   {
     "present": "shave",
-    "past": "shaved",
+    "past": "shaved (*shove)",
     "perfect": "shaved (shaven)"
   },
   {
@@ -748,7 +753,7 @@
   {
     "present": "shit",
     "past": "shit (shitted, shat)",
-    "perfect": "shit (shitted, shat)"
+    "perfect": "shit (shitted, shat, *shitten)"
   },
   {
     "present": "shoe",
@@ -758,12 +763,12 @@
   {
     "present": "shoot",
     "past": "shot",
-    "perfect": "shot"
+    "perfect": "shot (*shotten)"
   },
   {
     "present": "show",
-    "past": "showed",
-    "perfect": "shown (showed)"
+    "past": "showed (*shew)",
+    "perfect": "shown (showed, *shewed)"
   },
   {
     "present": "shrink",
@@ -771,8 +776,9 @@
     "perfect": "shrunk (shrunken)"
   },
   {
-    "past": "shrived",
-    "perfect": "shrived"
+    "present": "*shrive",
+    "past": "shrived (*shrove)",
+    "perfect": "shrived (*shriven)"
   },
   {
     "present": "shut",
@@ -782,7 +788,7 @@
   {
     "present": "sing",
     "past": "sang",
-    "perfect": "sung"
+    "perfect": "sung (*sungen)"
   },
   {
     "present": "sink",
@@ -791,8 +797,8 @@
   },
   {
     "present": "sit",
-    "past": "sat",
-    "perfect": "sat"
+    "past": "sat (*sate)",
+    "perfect": "sat (*sitten)"
   },
   {
     "present": "slay",
@@ -811,7 +817,7 @@
   },
   {
     "present": "sling",
-    "past": "slung",
+    "past": "slung (*slang)",
     "perfect": "slung"
   },
   {
@@ -821,8 +827,8 @@
   },
   {
     "present": "slip",
-    "past": "slipped",
-    "perfect": "slipped"
+    "past": "slipped (*slipt)",
+    "perfect": "slipped (*slipt)"
   },
   {
     "present": "slit",
@@ -836,23 +842,23 @@
   },
   {
     "present": "smite",
-    "past": "smote",
+    "past": "smote (*smit)",
     "perfect": "smitten (smitted)"
   },
   {
     "present": "sneak",
     "past": "sneaked (snuck)",
-    "perfect": "sneaked (snuck)"
+    "perfect": "sneaked (snuck, *snucked)"
   },
   {
     "present": "sow",
-    "past": "sowed",
+    "past": "sowed (*sew)",
     "perfect": "sown (sowed)"
   },
   {
     "present": "speak",
-    "past": "spoke",
-    "perfect": "spoken"
+    "past": "spoke (*spake)",
+    "perfect": "spoken (*spoke)"
   },
   {
     "present": "speed",
@@ -876,7 +882,7 @@
   },
   {
     "present": "spin",
-    "past": "spun",
+    "past": "spun (*span)",
     "perfect": "spun"
   },
   {
@@ -896,8 +902,8 @@
   },
   {
     "present": "spread",
-    "past": "spread",
-    "perfect": "spread"
+    "past": "spread (*spreaded)",
+    "perfect": "spread (*spreaded)"
   },
   {
     "present": "sprenge",
@@ -907,27 +913,27 @@
   {
     "present": "spring",
     "past": "sprang (sprung)",
-    "perfect": "sprung"
+    "perfect": "sprung (*sprang)"
   },
   {
     "present": "stand",
     "past": "stood",
-    "perfect": "stood"
+    "perfect": "stood (*standen)"
   },
   {
     "present": "starve",
-    "past": "starved",
-    "perfect": "starved"
+    "past": "starved (*starf, *storve)",
+    "perfect": "starved (*storven)"
   },
   {
     "present": "stave",
     "past": "stove (staved)",
-    "perfect": "stove (staved)"
+    "perfect": "stove (staved, *stoven)"
   },
   {
     "present": "stay",
-    "past": "stayed",
-    "perfect": "stayed"
+    "past": "stayed (*staid)",
+    "perfect": "stayed (*staid)"
   },
   {
     "present": "steal",
@@ -936,12 +942,12 @@
   },
   {
     "present": "stick",
-    "past": "stuck",
-    "perfect": "stuck"
+    "past": "stuck (*sticked)",
+    "perfect": "stuck (*sticked)"
   },
   {
     "present": "sting",
-    "past": "stung",
+    "past": "stung (*stang)",
     "perfect": "stung"
   },
   {
@@ -951,8 +957,8 @@
   },
   {
     "present": "stretch",
-    "past": "stretched",
-    "perfect": "stretched"
+    "past": "stretched (*straught, *straight)",
+    "perfect": "stretched (*straught, *straight)"
   },
   {
     "present": "strew",
@@ -961,8 +967,8 @@
   },
   {
     "present": "stride",
-    "past": "strode",
-    "perfect": "stridden"
+    "past": "strode (*strided)",
+    "perfect": "stridden (*strode, *strid, *stridded)"
   },
   {
     "present": "strike",
@@ -971,8 +977,8 @@
   },
   {
     "present": "string",
-    "past": "strung",
-    "perfect": "strung"
+    "past": "strung (*stringed)",
+    "perfect": "strung (*stringed)"
   },
   {
     "present": "strip",
@@ -996,41 +1002,43 @@
   },
   {
     "present": "sweep",
-    "past": "swept",
-    "perfect": "swept"
+    "past": "swept (*sweeped)",
+    "perfect": "swept (*sweeped)"
   },
   {
     "present": "swell",
-    "past": "swelled",
+    "past": "swelled (*swole, *swelt)",
     "perfect": "swollen (swelled)"
   },
   {
-    "past": "swelted",
-    "perfect": "swelted"
+    "present": "*swelt",
+    "past": "swelted (*swolt)",
+    "perfect": "swelted (*swolten)"
   },
   {
     "present": "swim",
-    "past": "swam",
+    "past": "swam (*swum)",
     "perfect": "swum"
   },
   {
     "present": "swing",
     "past": "swang (swung)",
-    "perfect": "swung"
+    "perfect": "swung (*swungen)"
   },
   {
-    "past": "swank (swonk, swinked)",
-    "perfect": "swunk (swunken, swonken, swinked)"
+    "present": "*swink",
+    "past": "swank (swonk, *swinkt, swinked)",
+    "perfect": "swunk (swunken, swonken, *swinkt, swinked)"
   },
   {
     "present": "take",
-    "past": "took",
+    "past": "took (*taked)",
     "perfect": "taken"
   },
   {
     "present": "teach",
-    "past": "taught",
-    "perfect": "taught"
+    "past": "taught (*teached)",
+    "perfect": "taught (*teached)"
   },
   {
     "present": "tear",
@@ -1038,53 +1046,54 @@
     "perfect": "torn"
   },
   {
+    "present": "*tee",
     "past": "teed (tow)",
     "perfect": "teed (town)"
   },
   {
     "present": "tell",
-    "past": "told",
-    "perfect": "told"
+    "past": "told (*telled)",
+    "perfect": "told (*telled)"
   },
   {
     "present": "think",
-    "past": "thought",
-    "perfect": "thought"
+    "past": "thought (*thinked)",
+    "perfect": "thought (*thinked)"
   },
   {
     "present": "thrive",
-    "past": "throve (thrived)",
+    "past": "throve (thrived, *thrave)",
     "perfect": "thriven (thrived)"
   },
   {
     "present": "throw",
-    "past": "threw",
-    "perfect": "thrown"
+    "past": "threw (*throwed)",
+    "perfect": "thrown (*throwed)"
   },
   {
     "present": "thrust",
-    "past": "thrust",
-    "perfect": "thrust"
+    "past": "thrust (*thrusted)",
+    "perfect": "thrust (*thrusted)"
   },
   {
     "present": "tread",
-    "past": "trod",
-    "perfect": "trodden (trod)"
+    "past": "trod (*tread, *treaded, *trodden)",
+    "perfect": "trodden (trod, *tread, *treaded)"
   },
   {
     "present": "vex",
-    "past": "vexed",
-    "perfect": "vexed"
+    "past": "vexed (*vext)",
+    "perfect": "vexed (*vext)"
   },
   {
     "present": "wake",
-    "past": "woke",
-    "perfect": "woken"
+    "past": "woke (*waked)",
+    "perfect": "woken (*waked)"
   },
   {
     "present": "wax",
-    "past": "waxed",
-    "perfect": "waxed"
+    "past": "waxed (*wex)",
+    "perfect": "waxed (*waxen)"
   },
   {
     "present": "wear",
@@ -1108,8 +1117,8 @@
   },
   {
     "present": "wend",
-    "past": "wended",
-    "perfect": "wended"
+    "past": "wended (*went)",
+    "perfect": "wended (*went)"
   },
   {
     "present": "wet",
@@ -1132,32 +1141,33 @@
   },
   {
     "present": "work",
-    "past": "worked",
-    "perfect": "worked"
+    "past": "worked (*wrought)",
+    "perfect": "worked (*wrought)"
   },
   {
+    "present": "*worth",
     "past": "worth (worthed)",
     "perfect": "worth (worthed, worthen)"
   },
   {
     "present": "wreak",
-    "past": "wreaked",
-    "perfect": "wreaked"
+    "past": "wreaked (*wrought, *wrack, *wroke)",
+    "perfect": "wreaked (*wrought, *wreaken, *wroken)"
   },
   {
     "present": "wring",
-    "past": "wrang (wrung)",
-    "perfect": "wrung"
+    "past": "wrang (wrung, *wringed)",
+    "perfect": "wrung (*wringed)"
   },
   {
     "present": "write",
-    "past": "wrote",
-    "perfect": "written"
+    "past": "wrote (*writ)",
+    "perfect": "written (*writ)"
   },
   {
     "present": "writhe",
-    "past": "writhed",
-    "perfect": "writhed"
+    "past": "writhed (*wrothe)",
+    "perfect": "writhed (*writhen)"
   },
   {
     "present": "zinc",

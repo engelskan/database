@@ -30,7 +30,6 @@ class Record
       chunk.gsub!(/, /, '/')
       chunk.strip!
       chunks = chunk.split(/\s*\/\s*/)
-      chunks.reject! { |chunk| chunk.start_with?('*') }
       count = chunks.length
       if count == 0
         nil
