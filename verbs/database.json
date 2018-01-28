@@ -25,9 +25,9 @@
     "perfect": "become"
   },
   {
-    "present": "beget",
+    "present": "*beget",
     "past": "begot (*begat)",
-    "perfect": "begotten (begot)"
+    "perfect": "begot (begotten)"
   },
   {
     "present": "begin",
@@ -909,11 +909,6 @@
     "present": "spread",
     "past": "spread (*spreaded)",
     "perfect": "spread (*spreaded)"
-  },
-  {
-    "present": "sprenge",
-    "past": "sprent",
-    "perfect": "sprent"
   },
   {
     "present": "spring",
