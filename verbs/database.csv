@@ -8,6 +8,7 @@ begin,began,begun
 bend,bent (*bended),bent (*bended)
 beseech,beseeched (*besought),beseeched (*besought)
 bet,bet (betted),bet (betted)
+betide,betided (*betid),betided (*betid)
 beware,,
 bid,bid,bid
 bid,bid (*bade),bid (*bidden)
@@ -15,9 +16,10 @@ bide,bided (bode),bided (bidden)
 bind,bound,bound
 bite,bit,bitten
 bleed,bled,bled
+blend,blended (*blent),blended (*blent)
 bless,blessed (*blest),blessed (*blest)
 blow,blew,blown
-break,broke,broken
+break,broke (*brake),broken (*broke)
 breed,bred,bred
 bring,brought,brought
 build,built,built

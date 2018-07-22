@@ -50,6 +50,11 @@
     "perfect": "bet (betted)"
   },
   {
+    "present": "betide",
+    "past": "betided (*betid)",
+    "perfect": "betided (*betid)"
+  },
+  {
     "present": "beware"
   },
   {
@@ -83,6 +88,11 @@
     "perfect": "bled"
   },
   {
+    "present": "blend",
+    "past": "blended (*blent)",
+    "perfect": "blended (*blent)"
+  },
+  {
     "present": "bless",
     "past": "blessed (*blest)",
     "perfect": "blessed (*blest)"
@@ -94,8 +104,8 @@
   },
   {
     "present": "break",
-    "past": "broke",
-    "perfect": "broken"
+    "past": "broke (*brake)",
+    "perfect": "broken (*broke)"
   },
   {
     "present": "breed",
